@@ -1394,9 +1394,9 @@ AddCommand(function(Arguments)
         FeLoop = not FeLoop
         if FeLoop and not CanUseFeloop then
                 wait(0.5)
-                ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("To Use Feloop Type k","All")
+                ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Are you sure you wanna feloop? Yes = Activate feloop","All")
                 local Chat = LP.Chatted:Wait()
-                if Chat:lower() ~= "k" then LP:Kick('That answer is wrong.') else CanUseFeloop = true end
+                if Chat:lower() ~= "Yes" then LP:Kick('That answer is wrong.') else CanUseFeloop = true end
         end
         if Arguments[1] then
                 FeLoop = true 
