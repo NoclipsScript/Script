@@ -597,7 +597,7 @@ end
 local function Char(Plr)
 local Tool = Plr:FindFirstChildOfClass'Tool'
         if Tool:FindFirstChild'Fire' then 
-                return 'beamed u fucking win sped',Tool
+                return 'shot you',Tool
         else 
                 return 'hit you',Tool
         end
