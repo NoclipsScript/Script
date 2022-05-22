@@ -412,8 +412,8 @@ end
 local EspTable = {} 
 local function espPlayer(Player,Method,IsUser)
 if not Player.Character or not Player.Character:FindFirstChild'Head' then return end
-if not IsUser then IsUser = "GLOCKY USER X CY" else IsUser = "GLOCKY USER X" end 
-if table.find(AdminUsers,Player.UserId) then IsUser = "GLOCKY USER X " end 
+if not IsUser then IsUser = "" else IsUser = "" end 
+if table.find(AdminUsers,Player.UserId) then IsUser = "" end 
         if not UseDraw or Method == "Legacy" then
                 local Esp1 = LegacyEsp(Player)
                 local CAdded;
@@ -1576,7 +1576,7 @@ local PartFound = LP.Character:FindFirstChild'HumanoidRootPart' or LP.Character:
                                          Text.Position = Vector2.new(RelativeHeadPos.X,RelativeHeadPos.Y) + Vector2.new(0,-30)
                                          Text.Center = true
                                          Text.Color = EspColour
-                                         Text.Text = Player.Name.." | Health: "..checkHp(Player.Character).." | Necron is a GOD: "..IsUser.."\nHas: Glock "..hasItem(Player,"Glock").." | Shotty "..hasItem(Player,"Shotty").." | Vest "..hasItem(Player,"BulletResist")
+                                         Text.Text = Player.Name.." | Health: "..checkHp(Player.Character).." |: "..IsUser.."\nHas: Glock "..hasItem(Player,"Glock").." | Shotty "..hasItem(Player,"Shotty").." | Vest "..hasItem(Player,"BulletResist")
                                          TopLeft.From = Vector2.new(TopLeftPos.X,TopLeftPos.Y)
                                          TopLeft.To = Vector2.new(TopRightPos.X,TopRightPos.Y)
                                          TopRight.From = Vector2.new(TopRightPos.X,TopRightPos.Y)
