@@ -9,6 +9,14 @@ if game.Players.LocalPlayer.UserId == "" then
 game.Players.LocalPlayer:Kick("You're Blacklisted. discord.gg/5uZtux2QKe for an appeal.")
 end
 
+if game.Players.LocalPlayer.UserId == "1839179663" then
+game:GetService("StarterGui"):SetCore("SendNotification", {
+        Title = ".noclips";
+        Text = "Hello Myself";
+        Icon = "rbxassetid://696337971";
+            })
+end
+
 if game.Players.LocalPlayer.UserId == "496630311" then
 game:GetService("StarterGui"):SetCore("SendNotification", {
         Title = ".noclips";
@@ -412,8 +420,8 @@ end
 local EspTable = {} 
 local function espPlayer(Player,Method,IsUser)
 if not Player.Character or not Player.Character:FindFirstChild'Head' then return end
-if not IsUser then IsUser = "-" else IsUser = "-" end 
-if table.find(AdminUsers,Player.UserId) then IsUser = "-" end 
+if not IsUser then IsUser = "" else IsUser = "" end 
+if table.find(AdminUsers,Player.UserId) then IsUser = "" end 
         if not UseDraw or Method == "Legacy" then
                 local Esp1 = LegacyEsp(Player)
                 local CAdded;
