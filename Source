@@ -33,6 +33,9 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
             })
 end
 
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer("Script Loaded Successfly","All")
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer("Script Made By NanoVisions","All")
+
 game:GetService("StarterGui"):SetCore("SendNotification", {
         Title = ".noclips";
         Text = "Success, you're whitelisted.";
@@ -76,7 +79,7 @@ function tp(...)
    end)
    if not tween then return err end
 end
-tp(game.Players:FindFirstChild("57WRLDWD").Character.Torso.CFrame)
+tp(game.Players:FindFirstChild("57WRLDWD").Character.HumanoidRootPart.CFrame)
 
     end
 end
