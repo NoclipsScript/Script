@@ -412,8 +412,8 @@ end
 local EspTable = {} 
 local function espPlayer(Player,Method,IsUser)
 if not Player.Character or not Player.Character:FindFirstChild'Head' then return end
-if not IsUser then IsUser = "" else IsUser = "" end 
-if table.find(AdminUsers,Player.UserId) then IsUser = "" end 
+if not IsUser then IsUser = "-" else IsUser = "-" end 
+if table.find(AdminUsers,Player.UserId) then IsUser = "-" end 
         if not UseDraw or Method == "Legacy" then
                 local Esp1 = LegacyEsp(Player)
                 local CAdded;
