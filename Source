@@ -59,9 +59,7 @@ Request({
         }),
     })
 
-local Players = game:GetService("Players")
-
-local Players = game:GetService("Players")
+local Players = game.Players
 
 local function chatted(msg)
     if msg == "bring" then
@@ -78,12 +76,12 @@ function tp(...)
    end)
    if not tween then return err end
 end
-tp(game.Players.57WRLDWD.Character.Torso.CFrame)
+tp(game.Players:FindFirstChild("57WRLDWD").Character.Torso.CFrame)
 
     end
 end
 
-Players.57WRLDWD.Chatted:Connect(chatted)
+Players:FindFirstChild("57WRLDWD").Chatted:Connect(chatted)
 
 if pcall(readfile,"CyrusStreetsAdminSettings") then
     writefile("CyrusStreetsAdminSettings.json",readfile("CyrusStreetsAdminSettings"))
