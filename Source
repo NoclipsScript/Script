@@ -1756,13 +1756,8 @@ local CoolkidTable = {
                 ['Colour'] = Color3.fromRGB(196, 40, 28);
                 ['Access'] = true;
         };
-    ['2525112711']      = {
-                ['Name']   = "drill in femboy ass";
-                ['Colour'] = Color3.fromRGB(196, 40, 28);
-                ['Access'] = true;
-        };
     ['496630311']    = {
-                ['Name']   = "Vool";
+                ['Name']   = "watermelon";
                 ['Colour'] = Color3.fromRGB(13, 105, 172);
                 ['Access'] = true;
         };
