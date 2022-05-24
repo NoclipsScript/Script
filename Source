@@ -1,5 +1,5 @@
 game:GetService("StarterGui"):SetCore("SendNotification", {
-        Title = ".noclips";
+        Title = "kfc and watermelon";
         Text = "Please Wait - Checking Whitelist/Blacklist. If you get kicked, it means you're blacklisted.";
         Icon = "rbxassetid://4743521545";
             })
@@ -11,7 +11,7 @@ end
 
 if game.Players.LocalPlayer.UserId == "1839179663" then
 game:GetService("StarterGui"):SetCore("SendNotification", {
-        Title = ".noclips";
+        Title = "kfc and watermelon";
         Text = "Hello Myself";
         Icon = "rbxassetid://696337971";
             })
@@ -19,7 +19,7 @@ end
 
 if game.Players.LocalPlayer.UserId == "496630311" then
 game:GetService("StarterGui"):SetCore("SendNotification", {
-        Title = ".noclips";
+        Title = "kfc and watermelon";
         Text = "VIP Activated, Welcome vool!";
         Icon = "rbxassetid://696337971";
             })
@@ -27,7 +27,7 @@ end
 
 if game.Players.LocalPlayer.UserId == "2525112711" then
 game:GetService("StarterGui"):SetCore("SendNotification", {
-        Title = ".noclips";
+        Title = "kfc and watermelon";
         Text = "VIP Activated, Welcome yDrillin!";
         Icon = "rbxassetid://696337971";
             })
@@ -35,17 +35,16 @@ end
 
 if game.Players.LocalPlayer.UserId == "158124494" then
 game:GetService("StarterGui"):SetCore("SendNotification", {
-        Title = ".noclips";
+        Title = "kfc and watermelon";
         Text = "VIP Activated, Welcome Ve_1m!";
         Icon = "rbxassetid://696337971";
             })
 end
 
-game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer("Script Loaded Successfly","All")
-game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer("Script Made By NanoVisions","All")
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer("kfc and watermelon","All")
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-        Title = ".noclips";
+        Title = "kfc and watermelon";
         Text = "Success, you're whitelisted.";
         Icon = "rbxassetid://375691700";
             })
